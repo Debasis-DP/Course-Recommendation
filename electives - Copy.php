@@ -227,7 +227,7 @@ span{
   <table>
  <tr onclick="updateValue()">
  <td><b>Theory</b></td>
- <td style="width:100%;"><div class="seekbar" data-seekbar-value="<?php echo $_SESSION["Theory"]?>"></div></td>
+ <td style="width:100%;"><div class="seekbar" data-seekbar-value="<?php echo $_SESSION["Grading"]?>"></div></td>
  <td><div class="seekbarvalues"></div></td>
 	</tr>		
 <tr onclick="updateValue()">

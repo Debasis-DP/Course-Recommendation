@@ -36,23 +36,23 @@ function loadpage(page){
  <td><div class="seekbarvalues"></div></td>
 	</tr>		
 <tr onclick="updateValue()">
- <td><b>Programming</b></td>
- <td><div class="seekbar" data-seekbar-value="<?php echo $_SESSION["Programming"]?>"></div></td>
+ <td><b>CourseLoad</b></td>
+ <td><div class="seekbar" data-seekbar-value="<?php echo $_SESSION["CourseLoad"]?>"></div></td>
  <td><div class="seekbarvalues"></div></td>
 	</tr>	
 <tr onclick="updateValue()">
- <td><b>Placement<b></td>
- <td><div class="seekbar" data-seekbar-value="<?php echo $_SESSION["Placement"]?>"></div></td>
+ <td><b>Attendance<b></td>
+ <td><div class="seekbar" data-seekbar-value="<?php echo $_SESSION["Attendance"]?>"></div></td>
  <td><div class="seekbarvalues"></div></td>
 	</tr>	
 <tr onclick="updateValue()">
- <td><b> Diversity </b></td>
- <td><div class="seekbar" data-seekbar-value="<?php echo $_SESSION["Prerequisite"]?>"></div></td>
+ <td><b> Practical Relevance </b></td>
+ <td><div class="seekbar" data-seekbar-value="<?php echo $_SESSION["Practicality"]?>"></div></td>
  <td><div class="seekbarvalues"></div></td>
 	</tr>	
 <tr onclick="updateValue()">
- <td><b>Analytical</b></td>
- <td><div class="seekbar" data-seekbar-value="<?php echo $_SESSION["Problematic"]?>"></div></td>
+ <td><b>Teacher Interaction</b></td>
+ <td><div class="seekbar" data-seekbar-value="<?php echo $_SESSION["Interactivity"]?>"></div></td>
  <td><div class="seekbarvalues"></div></td>
 	</tr>		
  </table>
@@ -90,7 +90,7 @@ function loadpage(page){
 <ul id="css3menu1" class="topmenu">
 	<li class="switch"><label onclick="" for="css3menu-switcher"></label></li>
 	<li class="topfirst" onclick="loadpage('profgeneral')"><a href="#" style="width:95%;"><img src="CSS3 Menu_files/css3menu1/service1.png" alt=""/>General</a></li>
-	<li class="topmenu" onclick="loadpage('profacad')"><a href="#" style="width:95%;"><img src="CSS3 Menu_files/css3menu1/256sub1.png" alt=""/>Academics</a></li>
+	<!--<li class="topmenu" onclick="loadpage('profacad')"><a href="#" style="width:95%;"><img src="CSS3 Menu_files/css3menu1/256sub1.png" alt=""/>Academics</a></li>-->
 	<li class="topmenu" onclick="loadpage('profrev')"><a href="#" style="width:95%;"><img src="CSS3 Menu_files/css3menu1/smile1.png" alt=""/>Reviews</a></li>
 	<li class="topmenu" onclick="loadpage('profrat')"><a href="#" style="width:95%;"><img src="CSS3 Menu_files/css3menu1/bfavour.png" alt=""/>Rating</a></li>
 	<li class="toplast" onclick="loadpage('profcontact')"><a href="#" style="width:95%;"><img src="CSS3 Menu_files/css3menu1/mobile.png" alt=""/>Contact</a></li>

@@ -163,10 +163,10 @@ $count=mysqli_num_rows($ret);
 if($count==1){
 	$row=mysqli_fetch_assoc($ret);
 	$_SESSION["Grading"]=$row["Grading"];
-	$_SESSION["Programming"]=$row["Programming"];
-	$_SESSION["Placement"]=$row["Placement"];
-	$_SESSION["Prerequisite"]=$row["Prerequisite"];
-	$_SESSION["Problematic"]=$row["Problematic"];
+	$_SESSION["CourseLoad"]=$row["CourseLoad"];
+	$_SESSION["Attendance"]=$row["Attendance"];
+	$_SESSION["Practicality"]=$row["Practicality"];
+	$_SESSION["Interactivity"]=$row["Interactivity"];
 }
 	?>
 <div id="myModal" class="modal">
@@ -185,23 +185,23 @@ if($count==1){
  <td><div class="seekbarvalues"></div></td>
 	</tr>		
 <tr onclick="updateValue()">
- <td><b>Programming</b></td>
- <td><div class="seekbar" data-seekbar-value="<?php echo $_SESSION["Programming"]?>"></div></td>
+ <td><b>CourseLoad</b></td>
+ <td><div class="seekbar" data-seekbar-value="<?php echo $_SESSION["CourseLoad"]?>"></div></td>
  <td><div class="seekbarvalues"></div></td>
 	</tr>	
 <tr onclick="updateValue()">
- <td><b>Placement<b></td>
- <td><div class="seekbar" data-seekbar-value="<?php echo $_SESSION["Placement"]?>"></div></td>
+ <td><b>Attendance<b></td>
+ <td><div class="seekbar" data-seekbar-value="<?php echo $_SESSION["Attendance"]?>"></div></td>
  <td><div class="seekbarvalues"></div></td>
 	</tr>	
 <tr onclick="updateValue()">
- <td><b> Diversity </b></td>
- <td><div class="seekbar" data-seekbar-value="<?php echo $_SESSION["Prerequisite"]?>"></div></td>
+ <td><b> Practical relevance </b></td>
+ <td><div class="seekbar" data-seekbar-value="<?php echo $_SESSION["Practicality"]?>"></div></td>
  <td><div class="seekbarvalues"></div></td>
 	</tr>	
 <tr onclick="updateValue()">
- <td><b>Analytical</b></td>
- <td><div class="seekbar" data-seekbar-value="<?php echo $_SESSION["Problematic"]?>"></div></td>
+ <td><b>Teacher Interaction</b></td>
+ <td><div class="seekbar" data-seekbar-value="<?php echo $_SESSION["Interactivity"]?>"></div></td>
  <td><div class="seekbarvalues"></div></td>
 	</tr>		
  </table>
@@ -419,10 +419,10 @@ $count=mysqli_num_rows($ret);
 if($count==1){
 	$row=mysqli_fetch_assoc($ret);
 	$_SESSION["Grading"]=$row["Grading"];
-	$_SESSION["Programming"]=$row["Programming"];
-	$_SESSION["Placement"]=$row["Placement"];
-	$_SESSION["Prerequisite"]=$row["Prerequisite"];
-	$_SESSION["Problematic"]=$row["Problematic"];
+	$_SESSION["CourseLoad"]=$row["CourseLoad"];
+	$_SESSION["Attendance"]=$row["Attendance"];
+	$_SESSION["Practicality"]=$row["Practicality"];
+	$_SESSION["Interactivity"]=$row["Interactivity"];
 }
 mysqli_close($con);
 	?>

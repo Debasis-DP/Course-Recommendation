@@ -56,7 +56,8 @@ function check(){
 	for(var i=0;i<list.departments.length;i++){
 		var counter=list.departments[i];
 		htmlcontent=htmlcontent+"<tr><td>"+counter["RollNo"]+"</td><td>"+counter["FirstName"]+" "+counter["LastName"]+"</td><td>"+counter["MobileStudent"]+"   "+"</td><td>"+counter["Email"]+"</td>";
-		htmlcontent=htmlcontent+"<td><button onclick=\"fill('"+counter["deptid"]+"','"+counter["deptname"]+"')\">Edit</button><button onclick=deletestud('"+counter['RollNo']+"')>Delete</button></td></tr>";
+		htmlcontent=htmlcontent+"<td><button onclick=deletestud('"+counter['RollNo']+"')>Delete</button></td></tr>";
+		//<button onclick=\"fill('"+counter["deptid"]+"','"+counter["deptname"]+"')\">Edit</button>
 	}
 	htmlcontent=htmlcontent+"</table>"
 	document.getElementById("deptcontent").innerHTML=htmlcontent;

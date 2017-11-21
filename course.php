@@ -23,11 +23,11 @@ var gname;
 <select name="program" id="program">
 </select><br/><br/>
 <label>Course Scale:</label>
-<input type="theory" name="theory" id="theory" placeholder="theory" style="width:50px;" required />
-<input type="programming" name="programming" id="programming" placeholder="programming" style="width:70px;" required />
-<input type="placement" name="placement" id="placement" placeholder="placement" style="width:70px;" required />
-<input type="prerequisite" name="prerequisite" id="prerequisite" placeholder="prerequisite" style="width:70px;" required />
-<input type="problematic" name="problematic" id="problematic" placeholder="problematic" style="width:70px;" required />
+<input type="Grading" name="Grading" id="Grading" placeholder="Grading" style="width:50px;" required />
+<input type="CourseLoad" name="CourseLoad" id="CourseLoad" placeholder="CourseLoad" style="width:70px;" required />
+<input type="Attendance" name="Attendance" id="Attendance" placeholder="Attendance" style="width:70px;" required />
+<input type="Practicality" name="Practicality" id="Practicality" placeholder="Practicality" style="width:70px;" required />
+<input type="Interactivity" name="Interactivity" id="Interactivity" placeholder="Interactivity" style="width:70px;" required />
 <br/><br/>
 <label>Rating</label>
 <input type="text" name="rating" id="rating" required />
@@ -40,7 +40,7 @@ var gname;
 <textarea rows = "3" type="text" name="description" id="description" style="height:100px;width:500px;" required ></textarea>
 <br/><br/>
 <input type="button" name="submit" value="Add Entry" onclick="addcourse()"/>
-<input type="button" name="submit1" value="Edit Entry" onclick="editcourse()"/>
+<!--<input type="button" name="submit1" value="Edit Entry" onclick="editcourse()"/> -->
 <br/><br/>
 </form>
 <b><label id="error" style="color:red;"></label></b>
@@ -65,7 +65,8 @@ function check(){
 		console.log(counter);
 		
 		htmlcontent=htmlcontent+"<tr><td>"+counter["CourseCode"]+"</td><td>"+counter["CourseTitle"]+"</td><td>"+counter["Program"]+"</td>";
-		htmlcontent=htmlcontent+"<td><button onclick=\"fill('"+counter["CourseCode"]+"','"+counter["CourseTitle"]+"')\">Edit</button><button onclick=deletecourse('"+counter['CourseCode']+"')>Delete</button></td></tr>";
+		htmlcontent=htmlcontent+"<td><button onclick=deletecourse('"+counter['CourseCode']+"')>Delete</button></td></tr>";
+		//<button onclick=\"fill('"+counter["CourseCode"]+"','"+counter["CourseTitle"]+"')\">Edit</button>
 	}
 	htmlcontent=htmlcontent+"</table>"
 	document.getElementById("coursecontent").innerHTML=htmlcontent;
@@ -106,11 +107,11 @@ function addcourse(){
 		document.getElementById("credit").value="";
 		document.getElementById("category").value="";
 		document.getElementById("program").value="";
-		document.getElementById("theory").value="";
-		document.getElementById("programming").value="";
-		document.getElementById("placement").value="";
-		document.getElementById("prerequisite").value="";
-		document.getElementById("problematic").value="";
+		document.getElementById("Grading").value="";
+		document.getElementById("CourseLoad").value="";
+		document.getElementById("Attendance").value="";
+		document.getElementById("Practicality").value="";
+		document.getElementById("Interactivity").value="";
 		document.getElementById("rating").value="";
 		document.getElementById("votes").value="";
 		document.getElementById("description").value="";
@@ -124,12 +125,12 @@ function addcourse(){
 	 var name=document.getElementById("name").value;
 	 var credit=document.getElementById("credit").value;
 	 var category=document.getElementById("category").value;
-	 var program=document.getElementById("program").value;
-	 var theory=document.getElementById("theory").value;
-	 var programming=document.getElementById("programming").value;
-	 var placement=document.getElementById("placement").value;
-	 var prerequisite=document.getElementById("prerequisite").value;
-	 var problematic=document.getElementById("problematic").value;
+	 var program="B.Tech";
+	 var Grading=document.getElementById("Grading").value;
+	 var CourseLoad=document.getElementById("CourseLoad").value;
+	 var Attendance=document.getElementById("Attendance").value;
+	 var Practicality=document.getElementById("Practicality").value;
+	 var Interactivity=document.getElementById("Interactivity").value;
 	 var rating=document.getElementById("rating").value;
 	 var votes=document.getElementById("votes").value;
 	 var description=document.getElementById("description").value;
@@ -138,8 +139,8 @@ function addcourse(){
 	document.getElementById("error").innerHTML="";
 	
 	
-	xhttp.open("GET", "addcourse?code="+code+"&name="+name+"&credit="+credit+"&category="+category+"&program="+program+"&theory="+theory+"&programming="+
-	programming+"&placement="+placement+"&prerequisite="+prerequisite+"&problematic="+problematic+"&rating="+rating+"&votes="+votes+"&description="+description, true);
+	xhttp.open("GET", "addcourse?code="+code+"&name="+name+"&credit="+credit+"&category="+category+"&program="+program+"&Grading="+Grading+"&CourseLoad="+
+	CourseLoad+"&Attendance="+Attendance+"&Practicality="+Practicality+"&Interactivity="+Interactivity+"&rating="+rating+"&votes="+votes+"&description="+description, true);
 	
 
 	xhttp.send(null);

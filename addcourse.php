@@ -10,7 +10,7 @@ if (mysqli_connect_errno())
   die("Failed to connect to MySQL: " . mysqli_connect_error());
   }
   $sql="Insert into coursedetails values('".$_GET["code"]."','".$_GET["name"]."','".$_GET["credit"]."','".$_GET["category"]."','".$_GET["program"]."',
-  '".$_GET["theory"]."','".$_GET["programming"]."','".$_GET["placement"]."','".$_GET["prerequisite"]."','".$_GET["problematic"]."','".$_GET["rating"]."','".$_GET["votes"]."','".$_GET["description"]."')";
+  '".$_GET["Grading"]."','".$_GET["CourseLoad"]."','".$_GET["Attendance"]."','".$_GET["Practicality"]."','".$_GET["Interactivity"]."','".$_GET["rating"]."','".$_GET["votes"]."','".$_GET["description"]."')";
   
   
   if(mysqli_query($con,$sql))

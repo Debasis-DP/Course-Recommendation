@@ -1,0 +1,23 @@
+Discrete Mathematics
+--------------------
+
+UNIT-I 
+Set Theory: Definition of Sets, Venn Diagrams, complements, cartesian products, power sets, counting principle, cardinality and countability (Countable and Uncountable sets), proofs of some general identitites on sets, pigeonhole principle. 
+Relation:Definition, types of relation, composition of relations, domain and range of a relation, pictorial representation of relation, properties of relation, partial ordering relation. 
+Function: Definition and types of function, composition of functions, recursively defined functions.      10 
+UNIT-II 
+Propositional logic: Proposition logic, basic logic, logical connectives, truth tables, tautologies, contradiction , normal forms(conjunctive and disjunctive), modus ponens and modus tollens, validity, predicate logic, universal and existential quantification. Notion of proof: proof by implication, converse, inverse, contrapositive, negation, and contradiction, direct proof, proof by using truth table, proof by counter example.                                                                                                                                                          7 
+UNIT-III 
+Combinatories:Mathematical induction, recursive mathematical definitions, basics of counting, permutations, combinations, inclusion-exclusion, recurrence relations (nth order recurrence relation with constant coefficients, Homogeneous recurrence relations, Inhomogeneous recurrence relation), generating function (closed form expression, properties of G.F., solution of recurrence relation using G.F, solution of combinatorial problem using G.F.)                                                                                              7 
+Unit-IV 
+Algebraic Structure:Binary composition and its properties definition of algebraic structure; Groyas Semi group, Monoid Groups, Abelian Group, properties of groups, Permutation Groups, Sub Group, Cyclic Group, Rings and Fields (definition and standard results).                                                                                  6 
+UNIT-V 
+Graphs: 
+Graph terminology, types of graph connected graphs, components of graph, Euler graph, Hamiltonian path and circuits, Graph coloring, Chromatic number. Tree: Definition, types of tree(rooted, binary), properties of trees, binary search tree, tree traversing (preorder, inorder, postorder). Finite Automata: Basic concepts of Automation theory, Deterministic finite 
+Automation(DFA), transition function, transition table, Non Deterministic Finite Automata (NDFA), Mealy and Moore Machine, Minimization of finite Automation. 10(12)
+ 
+Text/Reference Books: 
+1. Kenneth H. Rosen, “Discrete Mathematics and its Applications”, Mc.Graw Hill, 2002. 
+2. V. Krishnamurthy, “Combinatories:Theory and Applications”, East-West Press. 
+3. Seymour Lipschutz, M.Lipson, “Discrete Mathemataics” Tata Mc Graw Hill, 2005. 
+4. Kolman, Busby Ross, “Discrete Matheamatical Structures”, Prentice Hall International. 

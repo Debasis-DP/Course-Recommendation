@@ -1,0 +1,26 @@
+Computer Added Design
+----------------------
+
+Course Content
+UNIT I   INTRODUCTION TO COMPUTER GRAPHICS FUNDAMENTALS   
+Output primitives (points, lines, curves etc.,), 2-D & 3-D transformation (Translation, scaling, rotators) windowing - view ports - clipping transformation. 
+ 
+UNIT II  CURVES AND SURFACES MODELLING       
+Introduction to curves - Analytical curves: line, circle and conics – synthetic curves: Hermite cubic spline- Bezier curve and B-Spline curve – curve manipulations. Introduction to surfaces - Analytical surfaces: Plane surface, ruled surface, surface of revolution and tabulated cylinder – synthetic surfaces: Hermite bicubic surface- Bezier surface and B-Spline surface- surface manipulations. 
+ 
+UNIT III  NURBS AND SOLID MODELING        
+NURBS- Basics- curves, lines, arcs, circle and bi linear surface. Regularized Boolean set operations - primitive instancing - sweep representations - boundary representations - constructive solid Geometry - comparison of representations - user interface for solid modeling. 
+ 
+UNIT IV  VISUAL REALISM          
+Hidden – Line – Surface – solid removal algorithms shading – coloring. Introduction to parametric and variational geometry based software’s and their principles creation of prismatic and lofted parts using these packages. 
+ 
+UNIT V  ASSEMBLY OF PARTS AND PRODUCT DATA EXCHANGE    
+Assembly modeling - interferences of positions and orientation - tolerances analysis - mass property calculations - mechanism simulation. Graphics and computing standards– Open GL Data Exchange standards – IGES, STEP etc– Communication standards.
+
+
+REFERENCES: 
+1. William M Neumann and Robert F.Sproull “Principles of Computer Graphics”, Mc Graw Hill Book Co. Singapore, 1989. 
+2. Donald Hearn and M. Pauline Baker “Computer Graphics”, Prentice Hall, Inc., 1992. 
+3. Ibrahim Zeid Mastering CAD/CAM – McGraw Hill, International Edition, 2007. 
+4. Foley, Wan Dam, Feiner and Hughes – Computer graphics principles & practices, Pearson Education – 2003. 
+5. David F. Rogers, James Alan Adams “Mathematical elements for computer graphics” second edition, Tata McGraw-Hill edition.2003 

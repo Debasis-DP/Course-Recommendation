@@ -1,0 +1,16 @@
+Plant Biotechnology
+-------------------
+
+UNIT  I                                                                                                                                                                 Biodiversity and its conservation, Current levels of biodiversity, alpha and beta diversity, endangered and extinction, steps to preserve biodiversity, in situ and ex situ conservation gene banks and species conservation. 
+UNIT II       
+Restoration of degraded lands: Reforestation of adverse sites, development of stress tolerant plants, use of mycorrhizae in reforestation, use of microbes for improving soil fertility, diverse aspects of reforestation of soils contaminated with heavy metals. 
+UNIT III                                                                                                                                                                Seaweed biotechnology:  Seaweed tissue culture - callus induction and plantlet regeneration, protoplast culture and somatic hybridisation, Genetic engineering of seaweeds.  Common implication of sea weed biotechnology. Micro algal biotechnology: Microalgae, culture media, cultivation methods, growth kinetics, measurement of algal growth, harvest. 
+UNIT IV                                                                                                                                        
+Intellectual Property Right (IPR) and Protection (IPP): About Intellectual Property  and  Intellectual Property Right , Choice of intellectual property protection, IPR and Plant Genetic Resources (PGR), GATT and TRIPs 
+UNIT V                                                                                                                                           
+Patenting of biological material: International conventions, international corporations, obligation with,  patent applications, implication of patenting of higher plants, patenting transgenic organisms and isolated genes, patenting of genes and DNA sequences, Plant breeders right(PBRs) and Farmers Rights. 
+
+ References:                                                                                                                                           
+Keshav Trehan : Biotechnology 
+Michael W Fowler & Graham S Warren(Ed) : Plant Biotechnology 
+Uberoi N K : Environment Management 

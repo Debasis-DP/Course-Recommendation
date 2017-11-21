@@ -1,0 +1,17 @@
+Public Economics 
+----------------
+
+Course Outline
+
+1. State Formation and Taxation in Historical Perspective [T. Piketty]
+	The rise of the ?scal and social state
+	The structure of taxation in historical and sociological perspective
+	Introduction to optimal taxation: social objective vs. tax and transfer incidence
+2. Normative Theories of Social and Fiscal Justice
+3. Tools of Welfare Analysis 
+4. Taxation of Goods and Services
+5. Labour Income Taxation (1): Behavioural Responses 
+6. Labour Income Taxation (2): Optimal Policy Design 
+7. Wealth and Property Taxes over Time & across Countries 
+8. Optimal Taxation of Capital 
+9. Corporate Taxation 

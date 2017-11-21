@@ -46,7 +46,7 @@ $_SESSION["login"]=false;
     </form>
   </div>
   
-  <div class="cta"><a href="http://localhost/MiniProject/emailrem">Forgot your password?</a></div>
+  <!--<div class="cta"><a href="http://localhost/MiniProject/emailrem">Forgot your password?</a></div> -->
 </div>
 <div>
 

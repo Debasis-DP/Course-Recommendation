@@ -68,7 +68,7 @@ li.dropdown {
 }
 #sidebar{
 	position:absolute;
-	background:aqua;
+	background:indigo;
 	width:20%;
 	height:90%;
 	
@@ -137,25 +137,26 @@ function changepage(page){
   <li class="dropdown">
     <a href="javascript:void(0)" class="dropbtn">Admin</a>
     <div class="dropdown-content">
-      <a href="#" onclick="showSettings()">Settings</a>
-      <a href="#">Help</a>
-      <a href="logout">Logout</a>
+      <!--<a href="#" onclick="showSettings()">Settings</a>
+      <a href="#">Help</a> -->
+      <a href="logoutadmin">Logout</a>
     </div>
   </li>
-  <li><a href="#home" onclick="location.href='dashboard';">Home</a></li>
+  <li><a href="#home" onclick="location.href='admindashboard';">Home</a></li>
   
 </ul>
 </div>
 
 <div id="sidebar">
-	<div class="options" onclick="changepage('dept')"><span>Department</span></div>
 	<div class="options" onclick="changepage('course')"><span>Courses</span></div>
 	<div class="options" onclick="changepage('student')"><span>Student</span></div>
-	<div class="options"onclick="changepage('stat')"><span>Statistics</span></div>
+	<!--<div class="options" onclick="changepage('dept')"><span>Department</span></div> -->
+	
+	<!--<div class="options"onclick="changepage('stat')"><span>Statistics</span></div>-->
 	
 </div>
 <div>
-  <iframe id="framecontent" src="dept">
+  <iframe id="framecontent" src="course">
 </div>
 
 </body>

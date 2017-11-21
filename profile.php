@@ -31,8 +31,8 @@ function loadpage(page){
   <div class="modal-body">
   <table>
  <tr onclick="updateValue()">
- <td><b>Theory</b></td>
- <td style="width:100%;"><div class="seekbar" data-seekbar-value="<?php echo $_SESSION["Theory"]?>"></div></td>
+ <td><b>Grading</b></td>
+ <td style="width:100%;"><div class="seekbar" data-seekbar-value="<?php echo $_SESSION["Grading"]?>"></div></td>
  <td><div class="seekbarvalues"></div></td>
 	</tr>		
 <tr onclick="updateValue()">

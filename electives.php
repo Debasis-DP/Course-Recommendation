@@ -8,6 +8,7 @@ if(!$_SESSION["login"] or $_SESSION["login"]===false){
 <!DOCTYPE html>
 <html>
 <head>
+<link rel="stylesheet" href="css/sweetalert.css" rel="stylesheet">
 <link href="seekbar.css" rel="stylesheet" type="text/css"/>
 <script src="seekbar.js" type="text/javascript"></script>
 <link href="./css/elective.css" rel="stylesheet" type="text/css">
@@ -32,28 +33,28 @@ selCourses=new Array();
   <div class="modal-body">
   <table>
  <tr onclick="updateValue()">
- <td><b>Theory</b></td>
- <td style="width:100%;"><div class="seekbar" data-seekbar-value="<?php echo $_SESSION["Theory"]?>"></div></td>
+ <td><b>Grading</b></td>
+ <td style="width:100%;"><div class="seekbar" data-seekbar-value="<?php echo $_SESSION["Grading"]?>"></div></td>
  <td><div class="seekbarvalues"></div></td>
 	</tr>		
 <tr onclick="updateValue()">
- <td><b>Programming</b></td>
- <td><div class="seekbar" data-seekbar-value="<?php echo $_SESSION["Programming"]?>"></div></td>
+ <td><b>Course Load</b></td>
+ <td><div class="seekbar" data-seekbar-value="<?php echo $_SESSION["CourseLoad"]?>"></div></td>
  <td><div class="seekbarvalues"></div></td>
 	</tr>	
 <tr onclick="updateValue()">
- <td><b>Placement<b></td>
- <td><div class="seekbar" data-seekbar-value="<?php echo $_SESSION["Placement"]?>"></div></td>
+ <td><b>Attendance Policy<b></td>
+ <td><div class="seekbar" data-seekbar-value="<?php echo $_SESSION["Attendance"]?>"></div></td>
  <td><div class="seekbarvalues"></div></td>
 	</tr>	
 <tr onclick="updateValue()">
- <td><b> Diversity </b></td>
- <td><div class="seekbar" data-seekbar-value="<?php echo $_SESSION["Prerequisite"]?>"></div></td>
+ <td><b>Practical Relevance </b></td>
+ <td><div class="seekbar" data-seekbar-value="<?php echo $_SESSION["Practicality"]?>"></div></td>
  <td><div class="seekbarvalues"></div></td>
 	</tr>	
 <tr onclick="updateValue()">
- <td><b>Problematic</b></td>
- <td><div class="seekbar" data-seekbar-value="<?php echo $_SESSION["Problematic"]?>"></div></td>
+ <td><b>Teacher interaction</b></td>
+ <td><div class="seekbar" data-seekbar-value="<?php echo $_SESSION["Interactivity"]?>"></div></td>
  <td><div class="seekbarvalues"></div></td>
 	</tr>		
  </table>
@@ -244,11 +245,11 @@ $ret=mysqli_query($con,$sql);
 $count=mysqli_num_rows($ret);
 if($count==1){
 	$row=mysqli_fetch_assoc($ret);
-	$_SESSION["Theory"]=$row["Theory"];
-	$_SESSION["Programming"]=$row["Programming"];
-	$_SESSION["Placement"]=$row["Placement"];
-	$_SESSION["Prerequisite"]=$row["Prerequisite"];
-	$_SESSION["Problematic"]=$row["Problematic"];
+	$_SESSION["Grading"]=$row["Grading"];
+	$_SESSION["CourseLoad"]=$row["CourseLoad"];
+	$_SESSION["Attendance"]=$row["Attendance"];
+	$_SESSION["Practicality"]=$row["Practicality"];
+	$_SESSION["Interactivity"]=$row["Interactivity"];
 }
 mysqli_close($con);
 	?>
@@ -273,6 +274,7 @@ function getCoursesbyUserRollNo(){
 	 var xhttp = new XMLHttpRequest();
      xhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
+		console.log(xhttp.responseText);
 	course=JSON.parse(xhttp.responseText);
 	page=1;
 	method="US";
@@ -372,7 +374,50 @@ function savedb(){
   xhttp.send(null);
 }
 function selectCourses(course,title,remarks){
+	console.log("Outside");
+	
+	var xhttp = new XMLHttpRequest();
+     xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+	//alert(xhttp.responseText);
+		if(xhttp.responseText == 'Y'){
+			swal({title: "Successful", text: "You selected the course!", type: "success"},
+				function(){ 
+					location.reload();
+				}
+			);
+		}
+	}
+	else
+		swal("Oops, something went wrong!");
+	
+	} 
+  xhttp.open("GET", "ajax_select?course="+course, true);
+  xhttp.send(null);
+	/*
+		var ajax = new XMLHttpRequest();     
+		var data = "course="+course;
+		ajax.onreadystatechange = function() {
+			if(ajax.readyState == 4 && ajax.status == 200)
+			{
+				//success
+				if(ajax.responseText=='Y')
+				{
+					console.log("success");
+					swal("You have successfully selected this course");
+				}
+				else
+				{
+					swal("Error! Pls try again after some time.);
+				}
+			}	
+		};
+        ajax.open("POST", "ajax_select.php", true);    		
+        ajax.send(data);
+	*/
+	/*
 	if(document.getElementById(course).innerHTML=="Select" && n>0){
+		console.log("1st");
 		document.getElementById(course).innerHTML="UnSelect";
 		document.getElementById(course+"div").style.backgroundColor="grey";
 		n=n-1;
@@ -387,6 +432,7 @@ function selectCourses(course,title,remarks){
 			document.getElementById("selectc").innerHTML="<b>"+n+" Courses need to be selected</b><span class='myButton' onclick='savedb()'>Submit</span>";
 		console.log(selCourses);
 	}else if(n>0){
+		console.log("2nd");
 		document.getElementById(course).innerHTML="Select";
 		document.getElementById(course+"div").style.backgroundColor="white";
 		selCourses.remove(course);
@@ -394,6 +440,7 @@ function selectCourses(course,title,remarks){
 		document.getElementById("selectc").innerHTML="<b>"+n+" Courses need to be selected</b>";
 		console.log(selCourses);
 	}else if(n==0 && document.getElementById(course).innerHTML=="UnSelect" ){
+		console.log("3rd");
 		document.getElementById(course).innerHTML="Select";
 		document.getElementById(course+"div").style.backgroundColor="white";
 		selCourses.remove(course);
@@ -401,12 +448,14 @@ function selectCourses(course,title,remarks){
 		document.getElementById("selectc").innerHTML="<b>"+n+" Courses need to be selected</b>";
 		console.log(selCourses);
 	}
+	*/
 }
 function getCoursesbyUserCollaboration(){
 	var username="<?php echo $_SESSION['RollNo'] ?>";
 	 var xhttp = new XMLHttpRequest();
      xhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
+		console.log(xhttp.responseText);
 	course=JSON.parse(xhttp.responseText);
 	page=1;
 	method="UC";
@@ -435,4 +484,5 @@ function getCurrentStatus(){
 }
 
 </script>
+<script type="text/javascript" src="js/sweetalert.min.js" type="text/javascript"></script>
 </html>

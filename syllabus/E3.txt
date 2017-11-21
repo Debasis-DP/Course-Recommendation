@@ -1,0 +1,39 @@
+ Sports Biomechanics
+---------------------
+
+Syllabus:
+
+1. Bibliography. Programes assumptions. Why Study Biomechanics? 
+	• What Is Biomechanics?  
+	• What Are the Goals of Exercise and Sport Biomechanics? 
+	• The History of Sport Biomechanics 
+	• The Organization of Mechanics 
+	• Basic Dimensions Used in Mechanics 
+2. Forces: Maintaining Equilibrium or Changing Motion 
+	• What Are Forces?  
+	• Classifying Forces 
+	• Friction  
+	• Addition of Forces: Force Composition  
+	• Resolution of Forces  
+	• Static Equilibrium  
+3. Linear Kinematics: Describing Objects in Linear Motion 
+	• Linear Kinematics  
+	• Uniform Acceleration and Projectile Motion 
+4. Linear Kinetics: Explaining the Causes of Linear Motion 
+	• Newton’s First Law of Motion: Law of Inertia 
+	• Conservation of Momentum  
+	• Newton’s Second Law of Motion: Law of Acceleration  
+	• Impulse and Momentum  
+	• Newton’s Third Law of Motion: Law of Action-Reaction  
+	• Newton’s Law of Universal Gravitation  
+5. Work, Power, and Energy: Explaining the Causes of Motion Without Newton 
+	• Work  
+	• Energy  
+	• The Work-Energy Relationship  
+	• Power 
+
+TEXTBOOK AND REQUIRED MATERIALS 
+McGinnis, Peter M.: Biomechanics of Sport and Exercise-2nd Edition.  
+Robertson, D. Gordon E.: Research Methods in Biomechanics.  
+Zatsiorsky, Vladimir: Kinematics of Human Motion. 
+Whiting, William C.: Biomechanics of Musculoskeletal Injury

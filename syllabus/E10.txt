@@ -1,0 +1,50 @@
+OPTICAL SPECTROSCOPY: METHODS AND APPLICATION:
+
+PREREQUISITE:  Organic Chemistry
+
+The course will be a survey of major important instrumental analytical techniques; their principles, instrumentation, applications, merits and demerits will be discussed.  Time constraints may dictate how much of the materials and the number of topics discussed.
+
+  1.  Introduction: 
+	1)	The analytical process
+	2)	Figures of merits
+	3)	Calibration methods and matrix effects
+
+ II.  Spectroscopic methods:
+1)	Noise and Analytical Figures of Merits
+a)	Definitions
+b)	Types of noise: 
+c)	Signal-to-noise enhancement:  hardware and software techniques
+
+2)	Introduction to Spectroscopy
+a)	Electromagnetic radiation
+ i) Wave-like properties
+ii) Particle-like properties
+b)	Atomic and molecular energy levels, absorption
+and emission processes.
+
+3)	Instrumentation for Optical Spectroscopy
+a)	Overview of instrumentation
+b)	Radiation sources
+c)	Wavelength selectors
+d)	Sample holders
+e)	Detectors
+f)	Data display and manipulation
+g)	Instrument designs: dispersive versus nondispersive,
+	single versus double beam
+
+4)	Ultra-violet and Visible Absorption Spectroscopy
+a)	Definitions
+b)	Beer's Law and Quantitation
+c)	Deviations and limitations to Beer's Law
+d)	Instrumentation for UV-VIS spectroscopy
+	 i) Components and designs
+	ii) Actual commercial instruments
+e)	Methods and applications of absorption spectroscopy
+ 
+5)	Molecular Fluorescence, Phosphorescence and Chemiluminescence
+a)	Principles of luminescence
+b)	Instrumentation for fluorescence and phosphorescence
+c)	Chemiluminescence
+d)	Applications of luminescence techniques
+
+TEXT:  Principles of Instrumental Analysis, Skoog, Holler, and Nieman, Sixth Edition, HBC.

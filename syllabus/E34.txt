@@ -1,0 +1,23 @@
+Experimental Techniques in Materials Engineering
+----------------------------------------------------------------------------------
+
+Course Content:
+
+1. Introductory courses
+– Introduction to Materials Engineering, Science, Engineering and Technology of Materials
+
+2. Basics and fundamentals
+– Principles of Physical Metallurgy, Metallurgical Thermodynamics, Extractive Metallurgy, Phase transformations, Transport Phenomena, Mechanical Metallurgy (incl. creep, fatigue and fracture mechanics),
+Physics of Materials, Characterisation of Materials, Powder Metallurgy, Refractories, Ceramics, Electronic, Magnetic and other properties
+– Associated laboratories to improve understanding
+
+3.  Application aspects
+– Environmental Degradation, Iron and Steel making, Processing of Materials - Forming, Joining and Casting, Computational techniques
+– Adequate laboratory/demonstration classes 
+
+4. Case studies from the real world
+– Defects and Failures in Manufacturing and Service, Metallurgical Plant Design
+– Industrial Training and Lectures
+
+5. Capability for (independent) research
+– Project work

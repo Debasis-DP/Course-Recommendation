@@ -1,0 +1,24 @@
+Biotechnology in Human Health
+------------------------------
+
+Course Content:
+UNIT-I
+GM crops: Herbicide resistant crops; insect resistant crops; disease resistant crops; stress tolerant crops; improvement of crop yield; seed nutritional quality improvement. Biopesticides and Biofertilziers.
+
+UNIT-II
+Transgenic animals: Production of transgenic mice, sheep, and fish; biotechnological approaches for the management of pests; mosquitoes and nematodes; diagnosis of shrimp and fish diseases caused by bacterial, fungal and viral pathogens using
+molecular methods; live stock improvement.
+
+UNIT-III
+Medical and environmental biotechnology: Human health care products from recombinant DNA technology; disease diagnosis; Strategies of vaccine development. Gene therapy and DNA finger printing. Control of environmental pollution.
+Bioremediation. Biomass and energy production. Biofuels.
+
+UNIT-IV
+Industrial Biotechnology: Types of fermentation process and Bioreactor design; microbial strain improvement techniques; Bioprocessing technology; downstream processing; production of single cell proteins; immobilization of enzymes and whole
+cells and their applications. Biosensors.
+
+BOOKS RECOMMENDED:
+01. Recombinant DNA technology by Watson et. al., (Scientific American Books).
+02. Principles of Gene Manipulation by Old and Primrose.(Blackwell).
+03. Concepts in Biotechnology by Balasubrahmanian et. al.,(University press).
+04. Microbiology by Prescott.

@@ -1,9 +1,17 @@
+#OE RECOMMENDATION SYSTEM(PD LAB)
+#PYTHON CODE FOR GENERATING RECOMMENDATIONS BY COLLABORATIVE FILTERING(SIMILIAR USERS):
+
+#IMPORTING NECESSARY HEADER FILES...
 import sys
 import csv
 import MySQLdb
 from math import sqrt
 from collections import OrderedDict
 import json
+
+#FUNCTION DEFINITIONS...
+
+#FUNCTION TO CALCULATE DISTANCE/MEASURE SIMILIARITY BETWEEN TWO PERSONS P1 AND P2:
 def sim_distance(grades, p1, p2):
     si = {}
     for item in grades[p1]:
@@ -14,6 +22,9 @@ def sim_distance(grades, p1, p2):
     sum_of_squares = sum([pow(grades[p1][item] - grades[p2][item], 2) for item in
                          grades[p1] if item in grades[p2]])
     return 1 / (1 + sqrt(sum_of_squares))
+	
+	
+#FUNCTION TO CALCULATE PEARSON CORRELATION COEFFICIENT
 def sim_pearson(grades, p1, p2):
     si = {}
     for item in grades[p1]:
@@ -34,11 +45,14 @@ def sim_pearson(grades, p1, p2):
     r = num / den
     return r
 
+#FUNCTION THAT CHECKS ONLY FOR TOP 5 USERS YOU MATCH WITH AND CALCULATES SIMILIARITY FUNCTION LIKEWISE
 def topMatches(prefs,person,n=5,similarity=sim_pearson):
     scores = [(similarity(prefs, person, other), other) for other in prefs if other != person]
     scores.sort()
     scores.reverse()
     return scores[0:n]
+	
+#FUNCTION THAT ACCEPTS THE GRADES DICTIONARY AND ROLL NUMBER FOR WHICH COLLABORATION IS TO BE DONE AND RETURNS THE SUBJECTS RECOMMENDED IN PROPER RANKED ORDER
 def getRecommendations(grades, person):
     totals = {}
     simSums = {}
@@ -58,12 +72,14 @@ def getRecommendations(grades, person):
     rankings.sort()
     rankings.reverse()
     return rankings
+	
+#MAIN PROGRAM FLOW BEGINS FROM HERE
 
 delimiter = ','
 result = {}
-with open("Book1.csv", 'r') as data_file:
+with open("Book3.csv", 'r') as data_file:  #READS ALL GRADED VALUES FOR SUBJECTS FROM CSV FILE
     data = csv.reader(data_file, delimiter=delimiter)
-    headers = next(data)[1:] # month names starting from 2nd column in csv
+    headers = next(data)[1:] 
     for row in data:
         temp_dict = {}
         name = row[0]
@@ -78,6 +94,7 @@ with open("Book1.csv", 'r') as data_file:
         result[name] = temp_dict    
 #print(result)
 
+#DATABASE CONNECTION
 db = MySQLdb.connect(host="localhost",user="root",passwd="",db="courserec")
 cur = db.cursor()
 cur.execute("SELECT CourseCode,GradePoints FROM coursetaken where RollNo='"+sys.argv[1]+"'")
@@ -109,6 +126,8 @@ for i in s:
 finaljson=OrderedDict()
 jslist=[]
 #print json.dumps(jsonresult)
+
+#PRINTING THE FINAL VALUES OF RECOMMENDED COURSES FROM USER COLLABORATION METHOD
 for (key,value) in jsonresult.items():
     finaljs=OrderedDict()
     key=key.replace("14","15")

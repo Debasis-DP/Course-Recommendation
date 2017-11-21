@@ -1,0 +1,28 @@
+Finite Element Analysis
+-----------------------
+
+Course content:
+1. Approximate solution of boundary value problems-Methods of weighted residuals, Approximate solution using variational method, Modified Galerkin method, Boundary conditions and general comments, Two dimensional example 
+2. Basic finite element concepts-Basic ideas in a finite element solution, General finite element solution procedure, Finite element equations using modified Galerkin method, Application: Axial deformation of bars, Axial spring element 
+3. Analysis of trusses-Two dimensional truss element, Three dimensional space truss element, Stresses due to lack of fit and temperature changes 
+4. Beam bending-Governing differential equation for beam bending, Two node beam element, Exact solution for uniform beams subjected to distributed loads using superposition, Calculation of stresses in beams, Thermal stresses in beams 
+5. Analysis of structural frames-Plane frame element, Thermal stresses in frames, Three dimensional space frame element 
+6. General one dimensional boundary value problem and its applications-One dimensional heat flow, Fluid flow between flat plates-Lubrication Problem, Column buckling 7. Higher order elements for one dimensional problems-Shape functions for second order problems, Isoparametric mapping concept, Quadratic isoparametric element for general one dimensional boundary value problem, One dimensional numerical integration, Application: Heat conduction through a thin film 
+8. Two dimensional boundary value problems using triangular elements, Equivalent functional for general 2D BVP , A triangular element for general 2D BVP , Numerical examples 
+9. Isoparametric quadrilateral elements-Shape functions for rectangular elements, Isoparametric mapping for quadrilateral elements, Numerical integration for quadrilateral elements, Four node quadrilateral element for 2D BVP , Eight node serendipity element for 2D BVP 
+10. Isoparametric triangular elements-Natural (or Area) coordinates for triangles, Shape functions for triangular elements, Natural coordinate mapping for triangles, Numerical integration for triangles, Six node triangular element for general 2D BVP 
+11. Numerical integration-Newton-Cotes rules, Trapezium rule, Simpson’s rule, Error term, Gauss-Legendre rules, Changing limits of integration, Gauss-Leguerre rule, Multiple integrals, Numerical integration for quadrilateral elements, Numerical integration for triangular elements 
+12. Applications based on general two dimensional boundary value problem-Ideal fluid flow around an irregular object, Two dimensional steady state heat flow, Torsion of prismatic bars 
+13. Tw o dimensional elasticity-Governing differential equations, Constant strain
+ 
+Pre-requisites:
+1. Engineering Mathematics.
+Additional Reading:
+1. Chandrupatla T . R., and Belegundu, A. D., Introduction to Finite Elements in Engineering, Prentice Hall, 2003.
+2. Buchanan, G. R., Schaum's Outline of Finite Element Analysis, McGrawHill, 1994.
+3. Bathe, K-J., Finite Element Procedures, Prentice Hall, 1996.
+4. Zienkiewicz, O.C. and Taylor, R.L., The Finite Element Method, 6th Ed., Vol. 1, Elsevier, 2005.
+5. Zienkieewicz, O.C. and Taylor, R.L., The Finite Element Method, 6th Ed., Vol. 2, Elsevier, 2005.
+6. Zienkiewicz, O. C., Taylor, R. L., Zhu, J. Z., The Finite Element Method: Its Basis and
+triangular element, Four node quadrilateral element, Eight node isoparametric element 14. Axisymmetric elasticity problems-Governing equations for axisymmetric elasticity, Axisymmetric linear triangular element, Axisymmetric four node isoparametric element 15. Three dimensional elasticity-Governing differential equations, Four node tetrahedral element, Eight node hexahedral (brick) element, Twenty node isoparametric solid element, Prestressing, initial strains and thermal effects
+ 

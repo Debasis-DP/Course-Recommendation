@@ -1,0 +1,31 @@
+Ceramics in Electronic Applications
+--------------------
+
+UNIT-I 
+Introduction: Elementary solid state science, electrical conduction, defect and defect chemistry, charge displacement
+process.
+
+UNIT-II 
+Ceramic conductors: high temperature heating elements and electrodes, ohmic resistors, varistors, thermistors – PTC, NTC,
+fuel cells and batteries, sensors, materials system, powder synthesis, processing, properties, devices and application. Fundamentals 
+of superconductivity, theories of superconductors, materials system, synthesis, processing, properties and application
+
+UNIT-III 
+Dielectric and insulators, fundamentals of capacitors, classification of dielectric materials, materials system, low permittivity,
+medium permittivity and high permittivity, Powder synthesis, processing, properties, fabrication and application. Capacitor designs, 
+processing; Fundamentals of piezoelectricity, materials system, synthesis, processing, properties, devices and application. Fundamentals
+of pyroelectricity, materials system, synthesis, processing, properties, devices and application.
+
+Unit-IV 
+Electro-optic fundamentals, materials system, synthesis, processing, properties, devices and application. Fundamentals of magnetism,
+Magnetics ceramics basic concepts
+
+UNIT-V 
+Model ferrites: spinel ferrites, hexaferrites, garnets, properties influencing magnetic behavior, soft ferrites, hard ferrites, microwave ferrites,
+Preparation of ferrites, rawmaterials, mixing calcinations and milling, sintering, post sintered processing, applications.
+ 
+Text/Reference Books: 
+1. R. C. Buchanan, Ceramic Materials for Electronics: processing, properties and applications, Marcel Dekker, NY, 1986.
+2. L. M. Levinson, Electronic Ceramics: properties, device and applications, CRC Press, 1987.
+3. A. J. Moulson and J. M. Herbert, Electroceramics: Materials, Properties and Applications, Springer, 1990.
+4. B. Jaffe, W. R. Cook, H. Jaffe and H. L. C. Jaffe, Piezoelectric Ceramics, R. A. N Publishers, 1990.

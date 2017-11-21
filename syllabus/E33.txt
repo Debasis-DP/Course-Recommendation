@@ -1,0 +1,33 @@
+Principle and Practice of Heat Treatment
+-------------------------------------------------------------------
+
+Course Content:
+Section 1:
+Introduction to Underlying Metallurgical Principles
+	Definition of heat treatment: commonly heat treated ferrous and non ferrous metals
+	Structural relationships: atoms, crystals, grains and macroscopic shape
+	Metallurgy primer: metal crystal structures (BCC, FCC, HCP), strengthening mechanisms, role of defects, binary phase diagrams
+	Mechanical properties: strength, hardness, ductility and toughness
+
+Section 2:
+Heat Treatment of Ferrous Metals
+	Fe-Fe3C phase diagram-extended to TTT plot for eutectoid steel, effect of cooling rate on microstructural evolution
+	TTT and CCT diagrams
+	Common phases in steel: austenite, ferrite, pearlite, bainite and martensite
+	Heat treatment regimes: conventional quench, martempering, austempering
+	Hardenability concept – effect of section thickness and alloying
+
+Section 3:
+Heat Treatment of Non Ferrous Metals
+	Aluminium alloys: alloy designation, focus on 2000 and 7000 series, typical heat treatments–aging transformations
+	Magnesium alloys: common designation of casting grades, major alloy groups, heat treatment and microstructure/properties
+	Titanium alloys: a, a + ß, ß alloys and typical heat treatments
+	Nickel based superalloys: role of alloying elements, heat treatments & evolution of gamma prime
+
+Section 4:
+Thermochemical Treatments
+	Definition of case hardening
+	Carburising methods: solid, liquid, gas and plasma based processes
+	Carburising procedure: continuous line layout, case depth vs process time, hardness & residual stress profiles
+	Nitriding and nitrocarburising methods, line layout, pre and post oxidation treatments
+	Properties of nitrided steel: hardness profiles, adhesive wear, fatigue and corrosion data

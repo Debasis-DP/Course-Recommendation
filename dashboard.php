@@ -162,7 +162,7 @@ $ret=mysqli_query($con,$sql);
 $count=mysqli_num_rows($ret);
 if($count==1){
 	$row=mysqli_fetch_assoc($ret);
-	$_SESSION["Theory"]=$row["Theory"];
+	$_SESSION["Grading"]=$row["Grading"];
 	$_SESSION["Programming"]=$row["Programming"];
 	$_SESSION["Placement"]=$row["Placement"];
 	$_SESSION["Prerequisite"]=$row["Prerequisite"];
@@ -180,8 +180,8 @@ if($count==1){
   <div class="modal-body">
   <table>
  <tr onclick="updateValue()">
- <td><b>Theory</b></td>
- <td style="width:100%;"><div class="seekbar" data-seekbar-value="<?php echo $_SESSION["Theory"]?>"></div></td>
+ <td><b>Grading</b></td>
+ <td style="width:100%;"><div class="seekbar" data-seekbar-value="<?php echo $_SESSION["Grading"]?>"></div></td>
  <td><div class="seekbarvalues"></div></td>
 	</tr>		
 <tr onclick="updateValue()">
@@ -437,7 +437,7 @@ $ret=mysqli_query($con,$sql);
 $count=mysqli_num_rows($ret);
 if($count==1){
 	$row=mysqli_fetch_assoc($ret);
-	$_SESSION["Theory"]=$row["Theory"];
+	$_SESSION["Grading"]=$row["Grading"];
 	$_SESSION["Programming"]=$row["Programming"];
 	$_SESSION["Placement"]=$row["Placement"];
 	$_SESSION["Prerequisite"]=$row["Prerequisite"];

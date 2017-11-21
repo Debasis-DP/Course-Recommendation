@@ -29,7 +29,7 @@ $_SESSION["login"]=false;
 <body>
 
 <div class="pen-title">
-  <h1>Course Recommendation System</h1>
+  <h1>Open Elective Recommendation System</h1>
 </div>
 <!-- Form Module-->
 <div class="module form-module">
@@ -46,7 +46,7 @@ $_SESSION["login"]=false;
     </form>
   </div>
   
-  <div class="cta"><a href="http://localhost/MiniProject/emailrem">Forgot your password?</a></div>
+  <div class="cta">Dont have an account? <a href="signup">Sign up.</a></div>
 </div>
 <div>
 

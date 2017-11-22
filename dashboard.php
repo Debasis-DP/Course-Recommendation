@@ -16,7 +16,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #101;
+    background-color: #042c6d;
 	
 }
 
@@ -216,7 +216,7 @@ if($count==1){
 </div>
 
 <ul>
-  <li id="logo"><img src="logo.jpg" style="float:left;height:100%;width:100px;" /></li>
+  <li id="logo"><img src="logo.png" style="float:left;height:100%;width:100px;" /></li>
   
   <li class="dropdown">
     <a href="javascript:void(0)" class="dropbtn"><?php echo $_SESSION["FirstName"]; ?></a>
@@ -234,7 +234,7 @@ if($count==1){
 <h2>Summary</h2>
 <style>
 .tg {  
-    color: #333;
+    color: #666;
     font-family: Helvetica, Arial, sans-serif;
     width: 640px; 
     border-collapse: 
@@ -313,12 +313,12 @@ if($count==1){
   .button {
    border: 1px solid #0a3c59;
    background: #3e779d;
-   background: -webkit-gradient(linear, left top, left bottom, from(#65a9d7), to(#3e779d));
-   background: -webkit-linear-gradient(top, #65a9d7, #3e779d);
-   background: -moz-linear-gradient(top, #65a9d7, #3e779d);
-   background: -ms-linear-gradient(top, #65a9d7, #3e779d);
-   background: -o-linear-gradient(top, #65a9d7, #3e779d);
-   background-image: -ms-linear-gradient(top, #65a9d7 0%, #3e779d 100%);
+   background: -webkit-gradient(linear, left top, left bottom, from(#042c6d;), to(#3e779d));
+   background: -webkit-linear-gradient(top, #042c6d, #3e779d);
+   background: -moz-linear-gradient(top, #042c6d, #3e779d);
+   background: -ms-linear-gradient(top, #042c6d, #3e779d);
+   background: -o-linear-gradient(top, #042c6d, #3e779d);
+   background-image: -ms-linear-gradient(top, #042c6d 0%, #3e779d 100%);
    padding: 10px 20px;
    -webkit-border-radius: 11px;
    -moz-border-radius: 11px;
@@ -326,8 +326,8 @@ if($count==1){
    -webkit-box-shadow: rgba(255,255,255,0.4) 0 0px 0, inset rgba(255,255,255,0.4) 0 1px 0;
    -moz-box-shadow: rgba(255,255,255,0.4) 0 0px 0, inset rgba(255,255,255,0.4) 0 1px 0;
    box-shadow: rgba(255,255,255,0.4) 0 0px 0, inset rgba(255,255,255,0.4) 0 1px 0;
-   text-shadow: #7ea4bd 0 1px 0;
-   color: #203e52;
+   <!--text-shadow: #FFF 0 1px 0; -->
+   color: white;
    font-size: 17px;
    font-family: helvetica, serif;
    text-decoration: none;
@@ -336,7 +336,7 @@ if($count==1){
 .button:hover {
    border: 1px solid #0a3c59;
    text-shadow: #1e4158 0 1px 0;
-   background: #3e779d;
+   background: #042c6d;
    background: -webkit-gradient(linear, left top, left bottom, from(#65a9d7), to(#3e779d));
    background: -webkit-linear-gradient(top, #65a9d7, #3e779d);
    background: -moz-linear-gradient(top, #65a9d7, #3e779d);
@@ -359,7 +359,7 @@ if($count==1){
    }
   </style>
   <br/>
-  <div><input onclick="location.href='electives';"class="button" type="submit" value="Select Electives"><span>.          .</span><input class="button" onclick="location.href='feedback';" type="submit" value="Give Feedback"></div>
+  <div><input onclick="location.href='electives';"class="button" type="submit" value="Select Electives" style="color:white; !important"><span>.          .</span><input class="button" onclick="location.href='feedback';" type="submit" value="Give Feedback" style="color:white; !important"></div>
 </center>
 </body>
 

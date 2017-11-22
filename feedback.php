@@ -16,7 +16,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #101;
+    background-color: #042c6d;
 	
 }
 
@@ -216,7 +216,7 @@ if($count==1){
 </div>
 
 <ul>
-  <li id="logo"><img src="logo.jpg" style="float:left;height:100%;width:100px;" /></li>
+  <li id="logo"><img src="logo.png" style="float:left;height:100%;width:100px;" /></li>
   
   <li class="dropdown">
     <a href="javascript:void(0)" class="dropbtn"><?php echo $_SESSION["FirstName"]; ?></a>

@@ -23,6 +23,7 @@ var gname;
 <select name="program" id="program">
 </select><br/><br/>
 <label>Course Scale:</label>
+<label>(Out of 10)</label>
 <input type="Grading" name="Grading" id="Grading" placeholder="Grading" style="width:50px;" required />
 <input type="CourseLoad" name="CourseLoad" id="CourseLoad" placeholder="CourseLoad" style="width:70px;" required />
 <input type="Attendance" name="Attendance" id="Attendance" placeholder="Attendance" style="width:70px;" required />

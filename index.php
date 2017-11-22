@@ -46,7 +46,7 @@ $_SESSION["login"]=false;
     </form>
   </div>
   
-  <div class="cta">Dont have an account? <a href="signup">Sign up.</a></div>
+  <!--<div class="cta">Dont have an account? <a href="signup">Sign up.</a></div> -->
 </div>
 <div>
 

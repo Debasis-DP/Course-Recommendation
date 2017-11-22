@@ -14,7 +14,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #101;
+    background-color: #042c6d;;
 }
 
 li {
@@ -68,7 +68,7 @@ li.dropdown {
 }
 #sidebar{
 	position:absolute;
-	background:indigo;
+	background:#042c6d;;
 	width:20%;
 	height:90%;
 	
@@ -117,7 +117,7 @@ li.dropdown {
 }
 #framecontent{
 	position:absolute;
-	background:#eff145;
+	background:#ffe819;
 	width:79%;
 	height:89%;
 	left:20%;
@@ -132,7 +132,7 @@ function changepage(page){
 </script>
 <div>
 <ul>
-  <li id="logo"><img src="logo.jpg" style="float:left;height:100%;width:100px;" /></li>
+  <li id="logo"><img src="logo.png" style="float:left;height:100%;width:100px;" /></li>
   
   <li class="dropdown">
     <a href="javascript:void(0)" class="dropbtn">Admin</a>

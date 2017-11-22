@@ -66,7 +66,7 @@ function loadpage(page){
 
 </div>
 <ul>
-  <li id="logo"><img src="logo.jpg" style="float:left;height:100%;width:100px;" /></li>
+  <li id="logo"><img src="logo.png" style="float:left;height:100%;width:100px;" /></li>
   
   <li class="dropdown">
     <a href="javascript:void(0)" class="dropbtn"><?php echo $_SESSION["FirstName"]; ?></a>
@@ -83,7 +83,7 @@ function loadpage(page){
 <div id="sidebar">
 <img src="images/<?php echo $_SESSION["ImageFile"];?>" width="140" height="140" style="border-radius:50%;margin:10px;"/>
 <br/>
-<span style="font-size:24px;"><b><?php echo $_SESSION["FirstName"]." ".$_SESSION["LastName"]; ?> </b></span>
+<span style="font-size:24px;color:#FFF;"><b><?php echo $_SESSION["FirstName"]." ".$_SESSION["LastName"]; ?> </b></span>
 <br/><br/>
 <link rel="stylesheet" href="CSS3 Menu_files/css3menu1/style.css" type="text/css" /><style type="text/css">._css3m{display:none}</style>
 <input type="checkbox" id="css3menu-switcher" class="c3m-switch-input">
@@ -97,7 +97,7 @@ function loadpage(page){
 </ul>
 
 </div>
-<div>
+<div style="background-color:white; !important">
   <iframe id="framecontent" src="profgeneral">
 </div>
 </body>

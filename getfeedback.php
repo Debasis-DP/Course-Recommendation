@@ -9,7 +9,7 @@ if (mysqli_connect_errno())
   {
   die("Failed to connect to MySQL: " . mysqli_connect_error());
   }
-$sql="select CourseCode,CourseTitle from coursedetails where CourseCode in (select RealCourseCode from coursetaken where RollNo='".$_GET['RollNo']."') and CourseCode not in (select CourseCode from userreviews where RollNo='".$_GET['RollNo']."')";
+$sql="select CourseCode,CourseTitle from coursedetails where CourseCode in (select CourseCode from currentcourse where RollNo='".$_GET['RollNo']."') and CourseCode not in (select CourseCode from userreviews where RollNo='".$_GET['RollNo']."')";
 $ret=mysqli_query($con,$sql);
 $count=mysqli_num_rows($ret);
 echo "<div><h1>Add Reviews</h1><table id='content' style='font-size:24px;'>";

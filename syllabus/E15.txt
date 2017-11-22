@@ -1,0 +1,34 @@
+<br/><b>SYSTEMS AND SIGNAL PROCESSING:</b><br/>
+<br/>
+<br/><b>Prerequisite:</b><br/>  Probability Theory & Stochastic Processes 
+<br/>
+<br/><b>Course Objectives:</b><br/> 
+<br/>1. To expose the students to the random process and queuing theory related topics for their subsequent study of Computer Networks and wireless communication and Networks. 
+<br/>  
+<br/><b>UNIT I:</b><br/> RANDOM VARIABLE 
+<br/>Random Variables-Basic Definitions and properties, Sum of independent random variables, Minimum and Maximum of random variables, Comparisons between random variables, Moments of the random variables, Random variables in the field of telecommunications, Transformations of random variables-The probability generating function, the characteristic function of a pdf, The Laplace Transform of a pdf, Methods for the generation of random variables- Method of the inverse of the distribution function, Method of the transformation. 
+<br/> 
+<br/><b>UNIT II:</b><br/> RANDOM PROCESSES 
+<br/>The Random Process Concept, Concept of Stationarity and Statistical Independence, First Order Stationary Processes, Second Order and Wide Sense Stationary, (N-Order) and Strict Sense Stationarity, Time Averages and Ergodicity, Mean Ergodic Processes, Correlation Ergodic Processes, Autocorrelation Function and its Properties, Cross Correlation function and its properties, Covariance Functions, The Power Spectrum- Properties, Relationship between Power spectrum and Autocorrelation function. 
+<br/> 
+<br/><b>UNIT III:</b><br/> 
+<br/>Markov Chains and Queuing Theory Queues, Poisson arrival process- Sum of independent Poisson processes, Random splitting of a Poisson process, Compound Poisson processes, Birth death Markov chains, Formulation of Hidden Markov Model (HMM), building, evaluation and decoding of HMM, Notations for Queuing systems, The Little Theorem, M/M/1 queue analysis, M/M/1/K queue analysis, M/M/S queue analysis, M/M/S/S queue analysis, The M/M/8 queue analysis, Distribution of the queuing delays in the FIFO case- M/M/1 case, M/M/S case. 
+<br/>
+<br/><b>UNIT IV:</b><br/> 
+<br/>M/G/1 Queuing Theory M/G/1 queue, M/G/1 system delay distribution in the FIFO case, Laplace Transform numerical inversion method, Generalizations of the M/G/1 theory, Different imbedding instants in the M/G/1 theory, M/G/1 with geometrically distributed messages. 
+<br/> 
+<br/><b>UNIT V:</b><br/> Local Area Network Analysis Introduction
+<br/>Contention based protocols- Aloha, Slotted Aloha, Aloha Protocol with ideal capture effect, CSMA Schemes, Demand assignment protocols-Polling protocol, Token passing protocol, Analysis of token and polling Schemes, R-Aloha, PRMA protocol, Comparisons between CSMA/CD and Token Protocols, Fixed assignment Protocols- FDMA, TDMA, Resource reuse in cellular systems, CDMA. 
+<br/> 
+<br/>TEXTBOOK 
+<br/>1. Queuing Theory and Telecommunications Networks and Applications, Springer, Giovanni Giambene. 
+<br/>2. Probability, Random Variables & Random Signal Principles-Peyton Z. Peebles, TMH, 4th Edition,2001. 
+<br/>3. Digital Processing of Speech Signals. L.R Rabinar and R W Jhaung, 1978, PHI. 
+<br/> 
+<br/> 
+<br/><b>REFERENCE BOOKS:</b><br/> 
+<br/>1. Probability, Random Variables and Stochastic Processes – Athanasios Papoulis, S. Unnikrishna Pillai – TMH, 2008 
+<br/>2. Probability and Random Processes with Applications to Signal Processing – Henry Stark, John W. Woods, 3rd Edition, Pearson 
+<br/>3. Probability and Stochastic Processes – A Friendly Introduction for Electrical and Computer Engineers – Roy D. Yates, David J. Goodman. 
+<br/> 
+<br/> <br/><br/>

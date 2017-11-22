@@ -1,0 +1,26 @@
+<br/>Computer Added Design
+<br/>----------------------
+<br/>
+<br/>Course Content
+<br/>UNIT I   INTRODUCTION TO COMPUTER GRAPHICS FUNDAMENTALS   
+<br/>Output primitives (points, lines, curves etc.,), 2-D & 3-D transformation (Translation, scaling, rotators) windowing - view ports - clipping transformation. 
+<br/> 
+<br/>UNIT II  CURVES AND SURFACES MODELLING       
+<br/><b>Introduction to curves - Analytical curves:</b><br/> line, circle and conics – synthetic curves<br/> 
+<br/>UNIT III  NURBS AND SOLID MODELING        
+<br/>NURBS- Basics- curves, lines, arcs, circle and bi linear surface. Regularized Boolean set operations - primitive instancing - sweep representations - boundary representations - constructive solid Geometry - comparison of representations - user interface for solid modeling. 
+<br/> 
+<br/>UNIT IV  VISUAL REALISM          
+<br/>Hidden – Line – Surface – solid removal algorithms shading – coloring. Introduction to parametric and variational geometry based software’s and their principles creation of prismatic and lofted parts using these packages. 
+<br/> 
+<br/>UNIT V  ASSEMBLY OF PARTS AND PRODUCT DATA EXCHANGE    
+<br/>Assembly modeling - interferences of positions and orientation - tolerances analysis - mass property calculations - mechanism simulation. Graphics and computing standards– Open GL Data Exchange standards – IGES, STEP etc– Communication standards.
+<br/>
+<br/>
+<br/><b>REFERENCES:</b><br/> 
+<br/>1. William M Neumann and Robert F.Sproull “Principles of Computer Graphics”, Mc Graw Hill Book Co. Singapore, 1989. 
+<br/>2. Donald Hearn and M. Pauline Baker “Computer Graphics”, Prentice Hall, Inc., 1992. 
+<br/>3. Ibrahim Zeid Mastering CAD/CAM – McGraw Hill, International Edition, 2007. 
+<br/>4. Foley, Wan Dam, Feiner and Hughes – Computer graphics principles & practices, Pearson Education – 2003. 
+<br/>5. David F. Rogers, James Alan Adams “Mathematical elements for computer graphics” second edition, Tata McGraw-Hill edition.2003 
+<br/><br/>

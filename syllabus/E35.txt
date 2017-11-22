@@ -1,0 +1,40 @@
+<br/>Science of nano-materials
+<br/>------------------------------------------
+<br/>
+<br/><b>Course Content:</b><br/>
+<br/>UNIT-I
+<br/>Introduction to nanotechnology, definition, history. What makes the nanoscale so different from
+<br/>the other length scales by considering the under pinning science (i.e.nanoscience) and some
+<br/><b>key examples of nanotechnology; Properties in nanoscale:</b><br/> Extensive and Intensive properties,
+<br/>change in physical properties like color, melting point, electrical, magnetic, and mechanical.
+<br/>
+<br/>UNIT-II
+<br/>Quantum mechanical approach to explain the properties change in nanoscale. Theory of size
+<br/>dependent melting point, effect of grain size and grain boundary on mechanical properties of
+<br/>nanomaterial’s. 
+<br/>
+<br/>UNIT-III
+<br/>Methods of synthesis of nanometerials fabrication-“Top-down” vs. “bottom-up”
+<br/>approaches. A brief idea on synthesis of different nanomaterial’s. Theory of nucleation and
+<br/>growth. Brief introduction to application of nanoparticles in catalysis, biotechnology, sensor etc.
+<br/>
+<br/>UNIT-IV
+<br/>Characterization of nanoparticles by Scanning probe microscopes (Atomic Force Microscopy,
+<br/>Scanning Tunneling Microscopy), Transmission Electron Microscopy, Scanning Electron
+<br/>Microscopy.
+<br/>
+<br/><b>Essential Reading:</b><br/>
+<br/>1. S. K. Kulkarni, Nanotechnology: Principles and Practices, Capital Publishing Co. 2007.
+<br/>2. B. Rogers, S. Pennathur, J. Adams, and Nanotechnology: Understanding small
+<br/>systems, Taylor and Francis, 2008.
+<br/>3. C. N. R. Rao, A. Müller, A. K. Cheetham, The Chemistry of Nanomaterials, Wiley-VCH,
+<br/>2005.
+<br/><b>Suggested Reading:</b><br/>
+<br/>1. Tang, Zikang and Sheng, Ping, Taylor and Francis, Nano science and technology:
+<br/>novel structures and phenomena, 2003.
+<br/>2. T. Zikang and S. Ping, Nano science and technology: novel structures and phenomena,
+<br/>Taylor and Francis, 2003.
+<br/>3. M. Rieth, Nano-Engineering in Science and Technology: An Introduction to the World of
+<br/>Nanodesign, World Scientific, 2003
+<br/>
+<br/><br/>

@@ -6,7 +6,7 @@ $_SESSION["login"]=false;
 <html >
 <head>
   <meta charset="UTF-8">
-  <title>Course Recommendation System</title>
+  <title>Open Elective Recommendation System</title>
   
   <link rel="stylesheet" href="style/reset.css">
 
@@ -29,7 +29,7 @@ $_SESSION["login"]=false;
 <body>
 
 <div class="pen-title">
-  <h1>Course Recommendation System</h1>
+  <h1>Open Elective Recommendation System</h1>
 </div>
 <!-- Form Module-->
 <div class="module form-module">
@@ -39,14 +39,14 @@ $_SESSION["login"]=false;
   <div class="form">
     <h2>Admin Account</h2>
     <form action="checklogin" method="post">
-      <input type="text" placeholder="Roll No" name="rollno" required/>
+      <input type="text" placeholder="Username" name="rollno" required/>
       <input type="password" placeholder="Password" name="password" required/>
 	  <input type="hidden" name="loginmode" value="admin"/>
       <button>Login</button>
     </form>
   </div>
   
-  <div class="cta"><a href="http://localhost/MiniProject/emailrem">Forgot your password?</a></div>
+  <!--<div class="cta"><a href="http://localhost/MiniProject/emailrem">Forgot your password?</a></div> -->
 </div>
 <div>
 

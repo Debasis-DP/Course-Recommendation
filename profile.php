@@ -31,28 +31,28 @@ function loadpage(page){
   <div class="modal-body">
   <table>
  <tr onclick="updateValue()">
- <td><b>Theory</b></td>
- <td style="width:100%;"><div class="seekbar" data-seekbar-value="<?php echo $_SESSION["Theory"]?>"></div></td>
+ <td><b>Grading</b></td>
+ <td style="width:100%;"><div class="seekbar" data-seekbar-value="<?php echo $_SESSION["Grading"]?>"></div></td>
  <td><div class="seekbarvalues"></div></td>
 	</tr>		
 <tr onclick="updateValue()">
- <td><b>Programming</b></td>
- <td><div class="seekbar" data-seekbar-value="<?php echo $_SESSION["Programming"]?>"></div></td>
+ <td><b>CourseLoad</b></td>
+ <td><div class="seekbar" data-seekbar-value="<?php echo $_SESSION["CourseLoad"]?>"></div></td>
  <td><div class="seekbarvalues"></div></td>
 	</tr>	
 <tr onclick="updateValue()">
- <td><b>Placement<b></td>
- <td><div class="seekbar" data-seekbar-value="<?php echo $_SESSION["Placement"]?>"></div></td>
+ <td><b>Attendance<b></td>
+ <td><div class="seekbar" data-seekbar-value="<?php echo $_SESSION["Attendance"]?>"></div></td>
  <td><div class="seekbarvalues"></div></td>
 	</tr>	
 <tr onclick="updateValue()">
- <td><b> Diversity </b></td>
- <td><div class="seekbar" data-seekbar-value="<?php echo $_SESSION["Prerequisite"]?>"></div></td>
+ <td><b> Practical Relevance </b></td>
+ <td><div class="seekbar" data-seekbar-value="<?php echo $_SESSION["Practicality"]?>"></div></td>
  <td><div class="seekbarvalues"></div></td>
 	</tr>	
 <tr onclick="updateValue()">
- <td><b>Analytical</b></td>
- <td><div class="seekbar" data-seekbar-value="<?php echo $_SESSION["Problematic"]?>"></div></td>
+ <td><b>Teacher Interaction</b></td>
+ <td><div class="seekbar" data-seekbar-value="<?php echo $_SESSION["Interactivity"]?>"></div></td>
  <td><div class="seekbarvalues"></div></td>
 	</tr>		
  </table>
@@ -66,7 +66,7 @@ function loadpage(page){
 
 </div>
 <ul>
-  <li id="logo"><img src="logo.jpg" style="float:left;height:100%;width:100px;" /></li>
+  <li id="logo"><img src="logo.png" style="float:left;height:100%;width:100px;" /></li>
   
   <li class="dropdown">
     <a href="javascript:void(0)" class="dropbtn"><?php echo $_SESSION["FirstName"]; ?></a>
@@ -83,21 +83,21 @@ function loadpage(page){
 <div id="sidebar">
 <img src="images/<?php echo $_SESSION["ImageFile"];?>" width="140" height="140" style="border-radius:50%;margin:10px;"/>
 <br/>
-<span style="font-size:24px;"><b><?php echo $_SESSION["FirstName"]." ".$_SESSION["LastName"]; ?> </b></span>
+<span style="font-size:24px;color:#FFF;"><b><?php echo $_SESSION["FirstName"]." ".$_SESSION["LastName"]; ?> </b></span>
 <br/><br/>
 <link rel="stylesheet" href="CSS3 Menu_files/css3menu1/style.css" type="text/css" /><style type="text/css">._css3m{display:none}</style>
 <input type="checkbox" id="css3menu-switcher" class="c3m-switch-input">
 <ul id="css3menu1" class="topmenu">
 	<li class="switch"><label onclick="" for="css3menu-switcher"></label></li>
 	<li class="topfirst" onclick="loadpage('profgeneral')"><a href="#" style="width:95%;"><img src="CSS3 Menu_files/css3menu1/service1.png" alt=""/>General</a></li>
-	<li class="topmenu" onclick="loadpage('profacad')"><a href="#" style="width:95%;"><img src="CSS3 Menu_files/css3menu1/256sub1.png" alt=""/>Academics</a></li>
+	<!--<li class="topmenu" onclick="loadpage('profacad')"><a href="#" style="width:95%;"><img src="CSS3 Menu_files/css3menu1/256sub1.png" alt=""/>Academics</a></li>-->
 	<li class="topmenu" onclick="loadpage('profrev')"><a href="#" style="width:95%;"><img src="CSS3 Menu_files/css3menu1/smile1.png" alt=""/>Reviews</a></li>
 	<li class="topmenu" onclick="loadpage('profrat')"><a href="#" style="width:95%;"><img src="CSS3 Menu_files/css3menu1/bfavour.png" alt=""/>Rating</a></li>
 	<li class="toplast" onclick="loadpage('profcontact')"><a href="#" style="width:95%;"><img src="CSS3 Menu_files/css3menu1/mobile.png" alt=""/>Contact</a></li>
 </ul>
 
 </div>
-<div>
+<div style="background-color:white; !important">
   <iframe id="framecontent" src="profgeneral">
 </div>
 </body>

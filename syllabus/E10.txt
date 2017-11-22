@@ -1,0 +1,50 @@
+<br/><b>OPTICAL SPECTROSCOPY:</b><br/> METHODS AND APPLICATION<br/>
+<br/><b>PREREQUISITE:</b><br/>  Organic Chemistry
+<br/>
+<br/>The course will be a survey of major important instrumental analytical techniques; their principles, instrumentation, applications, merits and demerits will be discussed.  Time constraints may dictate how much of the materials and the number of topics discussed.
+<br/>
+<br/><b>  1.  Introduction:</b><br/> 
+<br/>	1)	The analytical process
+<br/>	2)	Figures of merits
+<br/>	3)	Calibration methods and matrix effects
+<br/>
+<br/><b> II.  Spectroscopic methods:</b><br/>
+<br/>1)	Noise and Analytical Figures of Merits
+<br/>a)	Definitions
+<br/><b>b)	Types of noise:</b><br/> 
+<br/><b>c)	Signal-to-noise enhancement:</b><br/>  hardware and software techniques
+<br/>
+<br/>2)	Introduction to Spectroscopy
+<br/>a)	Electromagnetic radiation
+<br/> i) Wave-like properties
+<br/>ii) Particle-like properties
+<br/>b)	Atomic and molecular energy levels, absorption
+<br/>and emission processes.
+<br/>
+<br/>3)	Instrumentation for Optical Spectroscopy
+<br/>a)	Overview of instrumentation
+<br/>b)	Radiation sources
+<br/>c)	Wavelength selectors
+<br/>d)	Sample holders
+<br/>e)	Detectors
+<br/>f)	Data display and manipulation
+<br/><b>g)	Instrument designs:</b><br/> dispersive versus nondispersive,
+<br/>	single versus double beam
+<br/>
+<br/>4)	Ultra-violet and Visible Absorption Spectroscopy
+<br/>a)	Definitions
+<br/>b)	Beer's Law and Quantitation
+<br/>c)	Deviations and limitations to Beer's Law
+<br/>d)	Instrumentation for UV-VIS spectroscopy
+<br/>	 i) Components and designs
+<br/>	ii) Actual commercial instruments
+<br/>e)	Methods and applications of absorption spectroscopy
+<br/> 
+<br/>5)	Molecular Fluorescence, Phosphorescence and Chemiluminescence
+<br/>a)	Principles of luminescence
+<br/>b)	Instrumentation for fluorescence and phosphorescence
+<br/>c)	Chemiluminescence
+<br/>d)	Applications of luminescence techniques
+<br/>
+<br/><b>TEXT:</b><br/>  Principles of Instrumental Analysis, Skoog, Holler, and Nieman, Sixth Edition, HBC.
+<br/><br/>

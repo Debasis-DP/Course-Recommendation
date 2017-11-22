@@ -1,0 +1,30 @@
+<br/>Separation Technology
+<br/>--------------------
+<br/>
+<br/>UNIT-I 
+<br/><b>Adsorption:</b><br/> Concepts and definitions; adsorbents and their preparation and properties; adsorption isotherms and
+<br/>their importance; adsorption types; equipments; adsorption in fixed bed; methods regenerations of adsorbents
+<br/>and basic mathematical modeling. 
+<br/>  
+<br/>UNIT-II 
+<br/><b>Chromatography separation:</b><br/> Basic principal; different types of chromatographic
+<br/>separation techniques and their application.                                                                                                                                                          7 
+<br/>
+<br/>UNIT-III 
+<br/><b>Membrane separation technique:</b><br/> membrane classification, chemistry, structure and characteristics and preparation;
+<br/>various membrane separations technology such as microfiltration,ultrafiltration, reverse osmosis, dialysis, electrodialysis,
+<br/>gas permeation, pervaoration, liquid membrane and theirapplications in chemical, biotechnology, food, and biochemical industry.
+<br/>
+<br/>Unit-IV 
+<br/><b>Reactive Distillation:</b><br/> Concept, modeling and design aspects and applications.
+<br/><b>Supercritical Fluid Extraction:</b><br/> Concept, modeling and design aspects and applications.
+<br/><b>Biofiltration:</b><br/> Concept, modeling and design aspects and applications.
+<br/> 
+<br/><b>Text/Reference Books:</b><br/> 
+<br/>1. M. C. Porter, Handbook of Industrial Membrane Technology, Crest Publishing House, 2005.
+<br/>2. M. Mukhopadhyay, Natural extracts using supercritical carbon dioxide, CRC Press, LLC, Boca Raton, Florida, USA, 2000.
+<br/>3. R. G. Harrison, P. W. Todd, R. Scott, Bioseparations Science and Engineering, Oxford University Press.
+<br/>4. J. E. Bailey and D. V. Ollis, Biochemical Engineering Fundamentals, Mc-Graw Hill, 1986
+<br/>5. J. G. S. Marcano and T. T. Tsotsis, Catalytic membranes and membrane reactor, John Wiley, 2002.
+<br/>6. B. K. Dutta, Principles of Mass Transfer and Separation Processes, Prentice Hall of India Private Limited, 2007.
+<br/>7. R. W. Baker, Membrane Technology and Applications, John Wiley & Sons Ltd, 2004.<br/><br/>

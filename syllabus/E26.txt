@@ -1,0 +1,35 @@
+<br/>International Trade and Development 
+<br/>-----------------------------------
+<br/>
+<br/>1 Trade
+<br/>1.1 New Ricardian Theories
+<br/><b>R. Dornbusch, S. Fischer, and P. A. Samuelson. Comparative Advantage, Trade, and Payments in a Ricardian Model with a Continuum of Goods. The American Economic Review, 67(5):</b><br/>823–839, 1977
+<br/><b>Rudiger Dornbusch, Stanley Fischer, and Paul A. Samuelson. HeckscherOhlin Trade Theory with a Continuum of Goods. The Quarterly Journal of Economics, 95(2):</b><br/>203–224, 1980
+<br/><b>Robert C. Feenstra and Gordon H. Hanson. Globalization, Outsourcing, and Wage Inequality. The American Economic Review, 86(2):</b><br/>240–245, 1996
+<br/>Arnaud Costinot. An Elementary Theory of Comparative Advantage. SSRN eLibrary, 2009
+<br/><b>Arnaud Costinot. On the origins of comparative advantage. Journal of International Economics, 77(2):</b><br/>255 – 264, 2009
+<br/>Arnaud Costinot and Jon Vogel. Matching and Inequality in the World Economy. SSRN eLibrary, 2009
+<br/>1.2 Intra-Industry Trade
+<br/><b>Paul Krugman. Scale Economies, Product Di?erentiation, and the Pattern of Trade. The American Economic Review, 70(5):</b><br/>950–959, 1980
+<br/><b>Marc J. Melitz. The Impact of Trade on Intra-Industry Reallocations and Aggregate Industry Productivity. Econometrica, 71(6):</b><br/>1695–1725, 2003
+<br/><b>Elhanan Helpman, Oleg Itskhoki, and Stephen Redding. Inequality and Unemployment in a Global Economy. Econometrica, 78(4):</b><br/>1239–1283, 2010
+<br/><b>Andrew B. Bernard, Stephen J. Redding, and Peter K. Schott. Comparative Advantage and Heterogeneous Firms. Review of Economic Studies, 74(1):</b><br/>31–66, 2007
+<br/>Marc J. Melitz and Gianmarco I.P. Ottaviano. Market Size, Trade, and Productivity. (11393), June 2005
+<br/><b>Elhanan Helpman, Marc J. Melitz, and Stephen R. Yeaple. Export versus FDI with Heterogeneous Firms. The American Economic Review, 94(1):</b><br/>300– 316, 2004
+<br/>
+<br/>2 Development
+<br/>2.1 Empirical Research in Development
+<br/><b>Daron Acemoglu, Simon Johnson, and James A. Robinson. The colonial origins of comparative development:</b><br/> An empirical investigation. The American Economic Review, 91(5)<br/><b>Daron Acemoglu, Simon Johnson, and James A. Robinson. Reversal of fortune:</b><br/> Geography and institutions in the making of the modern world income distribution. The Quarterly Journal of Economics, 117(4)<br/><b>Guido Tabellini. Culture and Institutions:</b><br/> Economic Development in the Regions of Europe. SSRN eLibrary, 2005
+<br/><b>Nathan Nunn. The long-term e?ects of africa’s slave trades*. Quarterly Journal of Economics, 123(1):</b><br/>139–176, 2008
+<br/>Nathan Nunn and Leonard Wantchekon. The Slave Trade and the Origins of Mistrust in Africa. SSRN eLibrary, 2009
+<br/>Luigi Guiso, Paola Sapienza, and Luigi Zingales. Long Term Persistence. SSRN eLibrary, 2008
+<br/><b>Wolfgang Keller. Geographic localization of international technology di?usion. The American Economic Review, 92(1):</b><br/>120–142, 2002
+<br/>2.2 Modern theories: Evolutionary approach
+<br/><b>Arthur J. Robson and Hillard S. Kaplan. The evolution of human life expectancy and intelligence in hunter-gatherer economies. The American Economic Review, 93(1):</b><br/>150–169, 2003
+<br/>Arthur J. Robson and Larry Samuelson. The Evolution of Time Preference with Aggregate Uncertainty. SSRN eLibrary, 2008
+<br/><b>Alberto Bisin and Thierry Verdier. On the cultural transmission of preferences for social status. Journal of Public Economics, 70(1):</b><br/>75 – 97, 1998
+<br/><b>Alberto Bisin and Thierry Verdier. The economics of cultural transmission and the dynamics of preferences. Journal of Economic Theory, 97(2):</b><br/>298 – 319, 2001
+<br/><b>Oded Galor and Omer Moav. Natural selection and the origin of economic growth. Quarterly Journal of Economics, 117(4):</b><br/>1133 – 1191, 2002
+<br/>Oded Galor and Stelios Michalopoulos. The Evolution of Entrepreneurial Spirit and the Process of Development. SSRN eLibrary, 2006
+<br/>
+<br/><br/>

@@ -1,0 +1,27 @@
+<br/><b>UTILIZATION OF ELECTRICAL ENERGY:</b><br/>
+<br/>
+<br/><b>SYLLABUS:</b><br/>
+<br/>UNIT-I (12 Lectures) 
+<br/><b>ELECTRIC DRIVES:</b><br/> 
+<br/>Type of electric drives, choice of motor, starting and running characteristics, speed control, temperature rise, Particular applications of electric drives, Types of industrial loads, continuous, Intermittent and variable loads, load Equalization. 
+<br/>
+<br/>UNIT-II (12 Lectures) 
+<br/><b>ELECTRIC HEATING:</b><br/> 
+<br/>Advantages and methods of electric heating, resistance heating, induction heating and dielectric heating.
+<br/>
+<br/>UNIT-III (12 Lectures) 
+<br/><b>ELECTRIC WELDING:</b><br/> 
+<br/>Electric welding, resistance and arc welding, electric welding equipment, comparison between A.C. and D.C. Welding. 
+<br/>
+<br/>UNIT-IV (12 Lectures) 
+<br/><b>ILLUMINATION FUNDAMENTALS & VARIOUS ILLUMINATION METHODS:</b><br/> 
+<br/>Introduction, terms used in illumination, laws of illumination, polar curves, photometry, integrating sphere, sources of light. Discharge lamps, MV and SV lamps – comparison between tungsten filament lamps and fluorescent tubes, Basic principles of light control, Types and design of lighting and flood lighting. 
+<br/>
+<br/>UNIT-V (12 Lectures) 
+<br/><b>ELECTRIC TRACTION:</b><br/> 
+<br/>System of electric traction and track electrification. Review of existing electric traction systems in India. Special features of traction motor, methods of electric braking-plugging rheostatic braking and regenerative braking, Mechanics of train movement. Speed-time curves for different services – trapezoidal and quadrilateral speed time curves. Calculations of tractive effort, power, specific energy consumption for given run, effect of varying acceleration and braking retardation, adhesive weight and braking retardation adhesive weight and coefficient of adhesion. 
+<br/>
+<br/><b>TEXT BOOKS:</b><br/> 
+<br/>1. J.B. Gupta, “Utilization of Electric  Power and Electric Traction”, Kataria & Sons publishers, Delhi, IX Edtion, 2004. (Units 1-5) 
+<br/>2. C.L. Wadhwa, “Generation, Distribution and Utilization of electrical Energy”, New Age International (P) Limited Publishers, 3rd Edition, 2010. (Units 1-5)
+<br/><br/>

@@ -1,0 +1,33 @@
+<br/>Principle and Practice of Heat Treatment
+<br/>-------------------------------------------------------------------
+<br/>
+<br/><b>Course Content:</b><br/>
+<br/><b>Section 1:</b><br/>
+<br/>Introduction to Underlying Metallurgical Principles
+<br/><b>	Definition of heat treatment:</b><br/> commonly heat treated ferrous and non ferrous metals
+<br/><b>	Structural relationships:</b><br/> atoms, crystals, grains and macroscopic shape
+<br/><b>	Metallurgy primer:</b><br/> metal crystal structures (BCC, FCC, HCP), strengthening mechanisms, role of defects, binary phase diagrams
+<br/><b>	Mechanical properties:</b><br/> strength, hardness, ductility and toughness
+<br/>
+<br/><b>Section 2:</b><br/>
+<br/>Heat Treatment of Ferrous Metals
+<br/>	Fe-Fe3C phase diagram-extended to TTT plot for eutectoid steel, effect of cooling rate on microstructural evolution
+<br/>	TTT and CCT diagrams
+<br/><b>	Common phases in steel:</b><br/> austenite, ferrite, pearlite, bainite and martensite
+<br/><b>	Heat treatment regimes:</b><br/> conventional quench, martempering, austempering
+<br/>	Hardenability concept – effect of section thickness and alloying
+<br/>
+<br/><b>Section 3:</b><br/>
+<br/>Heat Treatment of Non Ferrous Metals
+<br/><b>	Aluminium alloys:</b><br/> alloy designation, focus on 2000 and 7000 series, typical heat treatments–aging transformations
+<br/><b>	Magnesium alloys:</b><br/> common designation of casting grades, major alloy groups, heat treatment and microstructure/properties
+<br/><b>	Titanium alloys:</b><br/> a, a + ß, ß alloys and typical heat treatments
+<br/><b>	Nickel based superalloys:</b><br/> role of alloying elements, heat treatments & evolution of gamma prime
+<br/>
+<br/><b>Section 4:</b><br/>
+<br/>Thermochemical Treatments
+<br/>	Definition of case hardening
+<br/><b>	Carburising methods:</b><br/> solid, liquid, gas and plasma based processes
+<br/><b>	Carburising procedure:</b><br/> continuous line layout, case depth vs process time, hardness & residual stress profiles
+<br/>	Nitriding and nitrocarburising methods, line layout, pre and post oxidation treatments
+<br/><b>	Properties of nitrided steel:</b><br/> hardness profiles, adhesive wear, fatigue and corrosion data<br/><br/>

@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Nov 21, 2017 at 09:49 PM
+-- Generation Time: Nov 22, 2017 at 09:12 AM
 -- Server version: 10.1.21-MariaDB
 -- PHP Version: 5.6.30
 
@@ -100,45 +100,46 @@ CREATE TABLE `coursedetails` (
 --
 
 INSERT INTO `coursedetails` (`CourseCode`, `CourseTitle`, `Credit`, `Category`, `Program`, `Grading`, `CourseLoad`, `Attendance`, `Practicality`, `Interactivity`, `Rating`, `TotalVotes`, `Description`) VALUES
-('E01', 'Fundamentals of Tissue Engineering', 3, 'OE', 'B.Tech', 7, 0, 8, 7, 5, '3.981', 56, 'This course involves the technologies, services, tools utilized by the industry to manage and troubleshoot the networks.'),
-('E02', 'Materials in Medical Science', 3, 'OE', 'B.Tech', 8, 0, 3, 8, 6, '3.562', 90, 'This course builds an understanding of the core issues encountered in the design of wireless (vs wired) networks. It also exposes students to fairly recent paradigms in wireless communication.'),
-('E03', ' Sports Biomechanics', 3, 'OE', 'B.Tech', 9, 0, 3, 5, 7, '3.925', 15, 'This course will introduce students to basic knowledge of the most current trends and issues related to computer, network, and web security and the investigative and technical skills required to overcome these threats.'),
-('E04', 'Separation Technology', 3, 'OE', 'B.Tech', 10, 3, 5, 4, 2, '4.096', 72, 'This introductory course on Cloud computing will teach both the fundamental concepts of how and why Cloud systems works, as well as Cloud technologies that manifest these concepts. Students will learn distributed systems concepts like virtualization, data parallelism etc.'),
-('E05', 'Introduction to Ceramics', 3, 'OE', 'B.Tech', 9, 0, 0, 0, 2, '3.938', 67, 'This course covers the technologies involved in integrating front-end mobile devices into local and global networks.'),
-('E06', 'Ceramics in Electronic Applications', 3, 'OE', 'B.Tech', 10, 0, 0, 2, 2, '4.413', 45, 'This course will introduce students to mobile computing and mobile application development and also give an overview of various mobile computing applications, technologies and wireless communication.'),
-('E07', 'Operating Systems', 3, 'OE', 'B.Tech', 10, 0, 0, 0, 0, '3.754', 46, 'This course gives an introduction to computer forensics and investigation, and provides a taster in understanding how to conduct investigations to correctly gather, analyse and present digital evidence to both business and legal audiences.'),
-('E08', 'Chemical Kinetics', 3, 'OE', 'B.Tech', 10, 0, 0, 0, 0, '3.530', 71, 'The course focuses on advanced computer architectures, parallel algorithms, parallel languages, and performance-oriented computing. '),
-('E09', 'Introduction to Material Chemistry', 3, 'OE', 'B.Tech', 9, 0, 0, 0, 7, '4.388', 32, 'This course is an indepth study of a broad range of topics and techniques in the areas of social media analytics, web mining and social network analysis.'),
-('E10', 'Optical Spectroscopy: Methods and Applications', 3, 'OE', 'B.Tech', 7, 10, 0, 0, 4, '4.849', 71, 'This course provides information about Current XML application areas and uses. Indepth knowledge of XML based technology and its application. XML application areas and environments, use of XML on server side and databases, XML in .NET environment.'),
-('E11', 'Fundamentals of Communication Systems', 3, 'OE', 'B.Tech', 10, 2, 0, 0, 1, '4.580', 70, 'This course aims to provide the basic overview of the Semantic Web in particular, and data semantics in general, and how they can be applied to enhance data integration and knowledge inference.'),
-('E12', 'Soft Computing Techniques', 3, 'OE', 'B.Tech', 4, 0, 8, 2, 9, '4.854', 86, 'This course will present an introduction to algorithms for machine learning and data mining.'),
-('E13', 'Power Generation Systems', 3, 'OE', 'B.Tech', 4, 0, 7, 5, 10, '4.050', 101, 'This course provides an introduction to the basic concepts of Soft Computing methodology and covers three main components Neural Networks, Fuzzy Logic, Genetic Algorithms. Etc'),
-('E14', 'Utilization of Electrical Energy', 3, 'OE', 'B.Tech', 6, 0, 7, 8, 9, '3.805', 13, 'Methods & techniques within the field of artificial intelligence, including problem solving and optimisation by search, representing and reasoning with uncertain knowledge and machine learning.'),
-('E15', 'Systems and Signal Processing', 3, 'OE', 'B.Tech', 8, 0, 0, 0, 2, '3.844', 25, 'This course exposes students to the basic principles of bioinformatics and computational biology.'),
-('E16', 'Communicative English', 3, 'OE', 'B.Tech', 4, 0, 0, 2, 9, '4.960', 71, 'Computational systems inspired by natural evolution; natural and artificial evolution, evolutionary; chromosome representations; search operators; co-evolution; constraint handling techniques; niching and speciation; genetic programming; classifier systems and theoretical foundations; implementation of selected algorithms.'),
-('E17', 'Post-Liberalization Transformations in India', 3, 'OE', 'B.Tech', 7, 0, 8, 6, 1, '3.770', 17, 'This course provides a systematic approach with an in-depth analysis of advanced database areas as well as the basics of database management systems.'),
-('E18', 'Managerial Economics ', 3, 'OE', 'B.Tech', 9, 0, 0, 0, 1, '4.967', 86, 'Information Storage and Management (ISM) is a unique course that provides a comprehensive understanding of the various storage infrastructure components in data center environments.'),
-('E19', 'Science of Consciousness in Ancient India', 3, 'OE', 'B.Tech', 10, 0, 0, 0, 0, '4.026', 79, 'The course will cover emerging problems associated with the rapid growth in energy consumption of modern computing infrastructures, including data centers, and discuss recent research focused on mitigating these problems.'),
-('E20', 'Introduction to Cultural Studies', 3, 'OE', 'B.Tech', 8, 0, 10, 6, 4, '4.729', 33, 'The course discusses advanced data structures: heaps, balanced binary search trees, hashing tables, red-black trees, B-trees and their variants, structures for disjoint sets, binomial heaps, Fibonacci heaps, finger trees, persistent data structures, etc. '),
-('E21', 'Introduction to the Metaphysics of Sanskrit Langua', 3, 'OE', 'B.Tech', 7, 0, 0, 2, 6, '3.567', 22, 'The course teaches both the architecture of modern multi-core/many-core processors and the parallel programming principles to exploit the computational power of multi-core/many-core processors.'),
-('E22', 'Language and Writing', 3, 'OE', 'B.Tech', 6, 1, 0, 5, 9, '4.100', 23, 'This course focuses on a graph algorithms. It provides basic concepts and facts from the graph theory and algorithms for solving different problems on graphs.'),
-('E23', 'Science, Technology and Society', 3, 'OE', 'B.Tech', 8, 0, 0, 2, 8, '3.750', 12, 'This course provides a comprehensive introduction to computer graphics modeling, animation, and rendering. Topics covered include basic image processing, geometric transformations, geometric modeling of curves and surfaces'),
-('E24', 'Educational Psychology', 3, 'OE', 'B.Tech', 8, 9, 0, 2, 0, '4.220', 37, 'This course will cover the fundamentals of Free and Open Source software development.'),
-('E25', 'Public Economics ', 3, 'OE', 'B.Tech', 10, 0, 0, 5, 0, '4.550', 26, 'This course teaches the theory, design procedure, and programming practices behind effective human interaction with computers.'),
-('E26', 'International Trade and Development ', 3, 'OE', 'B.Tech', 8, 0, 1, 3, 4, '4.020', 7, 'This course is an introduction to software design patterns. The course covers the rationale and benefits of object-oriented software design patterns.'),
-('E27', 'Microbial Genetics', 3, 'OE', 'B.Tech', 8, 3, 0, 3, 1, '4.320', 5, 'This course is an introduction to the fundamentals of game theory and mechanism design. The course emphasizes theoretical foundations, mathematical tools, modeling, and equilibrium notions in different environments.'),
-('E28', 'Plant Biotechnology', 3, 'OE', 'B.Tech', 4, 0, 7, 5, 8, '4.420', 31, 'This course is an overview course in Data Science and covers the applications and technologies (data analytics and clouds) needed to process the application data.'),
-('E29', 'Discrete Mathematics', 3, 'OE', 'B.Tech', 5, 0, 8, 5, 9, '4.320', 21, 'This course seeks to present you with a wide range of data analytic techniques and is structured around the broad contours of the different types of data analytics.'),
-('E30', 'Finite Element Analysis', 3, 'OE', 'B.Tech', 8, 2, 2, 3, 1, '4.250', 32, 'This course considers at the Internet of Things (IoT) as the general theme of real  world things becoming increasingly visible and actionable via Internet and Web technologies.'),
-('E31', 'Computer Added Design', 3, 'OE', 'B.Tech', 9, 0, 2, 0, 0, '3.890', 11, 'This course deals with the Principles of software project management, metrics, cost estimation, software project planning, organizing, resource allocation, directing and controlling, riskmanagement, software configuration management, role of standards,management tools etc.'),
-('E32', 'Industrial Management', 3, 'OE', 'B.Tech', 9, 0, 1, 0, 1, '4.310', 25, 'This course addresses contemporary issues in managing knowledge, intellectual capital and other intangible assets.'),
-('E33', 'Principle and Practice of Heat Treatments', 3, 'OE', 'B.Tech', 9, 0, 0, 5, 1, '4.050', 3, 'This course introduces students to the theories, concepts and terminology of the discipline of organizational behavior.'),
-('E34', 'Expermental Techniques in Materials Engineering', 3, 'OE', 'B.Tech', 8, 0, 0, 0, 4, '3.880', 2, 'It aims to provide an understanding of the main accounting concepts and the practical use of accounting and financial information for decision making and the achievement of business goals.'),
-('E35', 'Science of Nano-materials', 3, 'OE', 'B.Tech', 8, 0, 0, 2, 3, '4.180', 10, 'This course is designed to help students evaluate the business skills and commitment necessary to successfully operate an entrepreneurial venture and review the challenges and rewards of entrepreneurship.'),
-('E36', 'Vacuum Science and Applications', 3, 'OE', 'B.Tech', 9, 2, 1, 3, 6, '4.300', 6, 'This course will cover the major techniques for mining and analyzing text data to discover interesting patterns, extract useful knowledge, and support decision making.'),
-('E37', 'Biotechnology in Human Health', 3, 'OE', 'B.Tech', 9, 2, 0, 6, 3, '4.330', 15, 'This course will examine the design, implementation, and evaluation of information retrieval systems.'),
-('E38', 'Biomaterials in Tissue Engineering', 3, 'OE', 'B.Tech', 6, 0, 2, 5, 10, '4.440', 23, 'This course provides an introduction to basic numerical methods for the solution of a number of classes of scientific problems.'),
-('E39', 'Fundamentals of Biomechanics ', 3, 'OE', 'B.Tech', 5, 0, 0, 2, 10, '3.750', 2, 'The course will include seminars in which modeling issues are discussed, lectures to provide mathematical background, and computational experiments.');
+('E01', 'Fundamentals of Tissue Engineering', 3, 'OE', 'B.Tech', 7, 0, 8, 7, 5, '3.981', 56, 'This course provides the basics of Tissue Engineering that covers the combination of cells, engineering and materials methods, and suitable biochemical and physicochemical factors to improve or replace biological tissues.'),
+('E02', 'Materials in Medical Science', 3, 'OE', 'B.Tech', 8, 0, 3, 8, 6, '3.562', 90, 'Coverage spans a wide range of topics from basic science to clinical applications, around the theme of materials in medicine and dentistry. '),
+('E03', ' Sports Biomechanics', 3, 'OE', 'B.Tech', 9, 0, 3, 5, 7, '3.925', 15, 'Sports biomechanics is a quantitative based study and analysis of professional athletes and sports activities in general, can simply be described as the physics of sports.'),
+('E04', 'Separation Technology', 3, 'OE', 'B.Tech', 10, 3, 5, 4, 2, '4.096', 72, 'Separation and Purification Technology is a course dedicated to the dissemination of novel methods for separation and purification in chemical and environmental engineering for homogeneous solutions and heterogeneous mixtures.'),
+('E05', 'Introduction to Ceramics', 3, 'OE', 'B.Tech', 9, 0, 0, 0, 2, '3.938', 67, ' This course helps you in understanding and controlling and developing new ceramic processes and products.'),
+('E06', 'Ceramics in Electronic Applications', 3, 'OE', 'B.Tech', 10, 0, 0, 2, 2, '4.413', 45, ' Ceramic has wide range of electrical properties including insulating, semi-conducting, superconducting, piezoelectric and magnetic are critical to products such as cell phones, computers, television, and other consumer electronic products.'),
+('E07', 'Operating Systems', 3, 'OE', 'B.Tech', 10, 0, 0, 0, 0, '3.754', 46, 'All the details to learn and manage the computer hardware resources and provide common services for computer programs.'),
+('E08', 'Chemical Kinetics', 3, 'OE', 'B.Tech', 10, 0, 0, 0, 0, '3.530', 71, 'Chemical kinetics, also known as reaction kinetics, is the study of rates of chemical processes. Chemical kinetics includes investigations of how different experimental conditions can influence the speed of a chemical reaction and yield information about the reaction\'s mechanism and transition states, as well as the construction of mathematical models that can describe the characteristics of a chemical reaction.'),
+('E09', 'Introduction to Material Chemistry', 3, 'OE', 'B.Tech', 9, 0, 0, 0, 7, '4.388', 32, 'Introduction to Materials Chemistry will appeal to advanced undergraduates and graduate students in chemistry, materials science,and chemical engineering by leading them stepwise from the elementary chemistry on which materials science depends, through a discussion of the different classes of materials, and ending with a description of how materials are used in devices and general technology.'),
+('E10', 'Optical Spectroscopy: Methods and Applications', 3, 'OE', 'B.Tech', 7, 10, 0, 0, 4, '4.849', 71, 'Optical Spectroscopy bridges a gap by providing a background on optics while focusing on spectroscopic methodologies, tools and instrumentations.'),
+('E11', 'Fundamentals of Communication Systems', 3, 'OE', 'B.Tech', 10, 2, 0, 0, 1, '4.580', 70, 'With an emphasis on digital communications, Communication Systems Engineering, introduces the basic principles underlying the analysis and design of communication systems. In addition, this text gives a solid introduction to analog communications and a review of important mathematical foundation topics.'),
+('E12', 'Soft Computing Techniques', 3, 'OE', 'B.Tech', 4, 0, 8, 2, 9, '4.854', 86, 'In computer science, soft computing (sometimes referred to as computational intelligence, though CI does not have an agreed definition) is the use of inexact solutions to computationally hard tasks such as the solution of NP-complete problems, for which there is no known algorithm that can compute an exact solution in polynomial time.'),
+('E13', 'Power Generation Systems', 3, 'OE', 'B.Tech', 4, 0, 7, 5, 10, '4.050', 101, 'Power generation systems are simply the combination of a potential or stored energy converter providing kinetic energy, which, in turn, creates electric power for use in motors, lighting, heating, and other conveniences of modern life.'),
+('E14', 'Utilization of Electrical Energy', 3, 'OE', 'B.Tech', 6, 0, 7, 8, 9, '3.805', 13, 'Various non-conventional and conventional methods of generating electric energy have been discussed.Economics of generation, starting with the load survey to the fixation of tariff explained.'),
+('E15', 'Systems and Signal Processing', 3, 'OE', 'B.Tech', 8, 0, 0, 0, 2, '3.844', 25, 'Students will find a wide range of topics covered within the subject areas of system design and implementation, algorithms, architectures, and applications.'),
+('E16', 'Communicative English', 3, 'OE', 'B.Tech', 4, 0, 0, 2, 9, '4.960', 71, 'The phrase Communicative English refers to that English which helps us to communicate effectively with people using language functions.'),
+('E17', 'Post-Liberalization Transformations in India', 3, 'OE', 'B.Tech', 7, 0, 8, 6, 1, '3.770', 17, 'Liberalisation in India refers to the economic liberalisation, initiated in 1991, of the country\\\'s economic policies, with the goal of making the economy more market and service-oriented and expanding the role of private and foreign investment.'),
+('E18', 'Managerial Economics ', 3, 'OE', 'B.Tech', 9, 0, 0, 0, 1, '4.967', 86, 'Information Storage and Management (ISM) is a unique course that provides a comprehensive understanding of the various storage infrastructure components in data center environments.Managerial economics is the \"application of the economic concepts and economic analysis to the problems of formulating rational managerial decisions.'),
+('E19', 'Science of Consciousness in Ancient India', 3, 'OE', 'B.Tech', 10, 0, 0, 0, 0, '4.026', 79, 'This course helps you understand their scientific significance and separate what can be correlated with the emerging insights of cognitive science from the more speculative philosophical and religious thought.'),
+('E20', 'Introduction to Cultural Studies', 3, 'OE', 'B.Tech', 8, 0, 10, 6, 4, '4.708', 34, 'Cultural Studies is an emerging area of research and teaching that brings in new perspectives to the study of culture and society'),
+('E21', 'Introduction to the Metaphysics of Sanskrit Langua', 3, 'OE', 'B.Tech', 7, 0, 0, 2, 6, '3.567', 22, 'This c ourse deals with the earliest surviving anthology of poems in any of the Indo-European languages is in Ancient Sanskrit.'),
+('E22', 'Language and Writing', 3, 'OE', 'B.Tech', 6, 1, 0, 5, 9, '4.100', 23, 'Lead students toward independence as writers with Language for Writing, which teaches not only the skill of writing but the vocabulary, sentence, and organizational skills that underlie it. '),
+('E23', 'Science, Technology and Society', 3, 'OE', 'B.Tech', 8, 0, 0, 2, 8, '3.750', 12, 'Science, technology and society studies, or science and technology studies (both abbreviated STS) is the study of how society, politics, and culture affect scientific research and technological innovation, and how these, in turn, affect society, politics and culture.'),
+('E24', 'Educational Psychology', 3, 'OE', 'B.Tech', 8, 9, 0, 2, 0, '4.220', 37, 'The study of learning processes, from both cognitive and behavioral perspectives, allows researchers to understand individual differences in intelligence, cognitive development, '),
+('E25', 'Public Economics ', 3, 'OE', 'B.Tech', 10, 0, 0, 5, 0, '4.550', 26, 'Public economics (or economics of the public sector) is the study of government policy through the lens of economic efficiency and equity.'),
+('E26', 'International Trade and Development ', 3, 'OE', 'B.Tech', 8, 0, 1, 3, 4, '4.020', 7, 'International trade is the exchange of capital, goods, and services across international borders or territories. International development or global development is a wide concept concerning level of development on an international scale.'),
+('E27', 'Microbial Genetics', 3, 'OE', 'B.Tech', 8, 3, 0, 3, 1, '4.320', 5, 'Microbial genetics is a subject area within microbiology and genetic engineering which studies the genetics of very small (micro) organisms; bacteria, archaea, viruses and some protozoa and fungi and the study of the genotype of microbial species and also the expression system in the form of phenotypes.'),
+('E28', 'Plant Biotechnology', 3, 'OE', 'B.Tech', 4, 0, 7, 5, 8, '4.420', 31, 'Plant biotechnology can be defined as the introduction of desirable traits into plants through genetic modification.'),
+('E29', 'Discrete Mathematics', 3, 'OE', 'B.Tech', 5, 0, 8, 5, 9, '4.320', 21, 'Discrete mathematics is the study of mathematical structures that are fundamentally discrete rather than continuous.'),
+('E30', 'Finite Element Analysis', 3, 'OE', 'B.Tech', 8, 2, 2, 3, 1, '4.250', 32, 'Finite Element Analysis\nThe finite element method (FEM), also referred to as finite element analysis (FEA) is a numerical method for solving problems of engineering and mathematical physics.\n'),
+('E31', 'Computer Added Design', 3, 'OE', 'B.Tech', 9, 0, 2, 0, 0, '3.890', 11, 'Computer-aided design (CAD) is the use of computer systems (or workstations) to aid in the creation, modification, analysis, or optimization of a design.['),
+('E32', 'Industrial Management', 3, 'OE', 'B.Tech', 9, 0, 1, 0, 1, '4.310', 25, 'In economics, industrial organization or industrial economy is a field that builds on the theory of the firm by examining the structure of (and, therefore, the boundaries between) firms and markets'),
+('E33', 'Principle and Practice of Heat Treatments', 3, 'OE', 'B.Tech', 9, 0, 0, 5, 1, '4.050', 3, 'This course aims to provide a grounding in the heat treatment regimes applied to common industrial metals and relates their properties to the microstructural changes induced by the treatments.'),
+('E34', 'Expermental Techniques in Materials Engineering', 3, 'OE', 'B.Tech', 8, 0, 0, 0, 4, '3.880', 2, 'Experimental Techniques in Materials and Mechanics provides a detailed yet easy-to-follow treatment of various techniques useful for characterizing the structure and mechanical properties of materials.'),
+('E35', 'Science of Nano-materials', 3, 'OE', 'B.Tech', 8, 0, 0, 2, 3, '4.180', 10, 'Nanomaterials are cornerstones of nanoscience and nanotechnology. Nanostructure science and technology is a broad and interdisciplinary area of research and development activity that has been growing explosively worldwide in the past few years.'),
+('E36', 'Vacuum Science and Applications', 3, 'OE', 'B.Tech', 9, 2, 1, 3, 6, '4.300', 6, 'Recent advances in vacuum sciences and applications are reviewed. Novel optical interferometer cavity devices enable pressure measurements with ppm accuracy.'),
+('E37', 'Biotechnology in Human Health', 3, 'OE', 'B.Tech', 9, 2, 0, 6, 3, '4.330', 15, 'Biotechnology has offered modern medical devices for diagnostic and preventive purposes, which include diagnostic test kits, vaccines and radio-labeled biological therapeutics used for imaging and analysis.'),
+('E38', 'Biomaterials in Tissue Engineering', 3, 'OE', 'B.Tech', 6, 0, 2, 5, 10, '4.440', 23, 'Biomaterials serve as an integral component of tissue engineering. They are designed to provide architectural framework reminiscent of native extracellular matrix in order to encourage cell growth and eventual tissue regeneration.'),
+('E39', 'Fundamentals of Biomechanics ', 3, 'OE', 'B.Tech', 5, 0, 0, 2, 10, '3.750', 2, 'Fundamentals of Biomechanics  introduces the exciting world of how human movement is created and how it can be enhanced.  The course presents a comprehensive review of the major concepts of biomechanics and summarizes them in nine principles of biomechanics.'),
+('E40', 'General Knowledge', 3, 'OE', 'B.Tech', 0, 0, 0, 10, 0, '1.000', 10, 'This course provides the student with an all round knowledge of the current facts and the justification behind them.');
 
 -- --------------------------------------------------------
 
@@ -210,8 +211,7 @@ CREATE TABLE `currentcourse` (
 
 INSERT INTO `currentcourse` (`sl_no`, `RollNo`, `CourseCode`) VALUES
 (1, '15MX05', 'E20'),
-(2, '15MX05', 'E20'),
-(3, '15MX05', 'E01');
+(8, '15MX05', 'E03');
 
 -- --------------------------------------------------------
 
@@ -320,8 +320,8 @@ CREATE TABLE `studentdetails` (
   `RollNo` varchar(15) NOT NULL,
   `FirstName` varchar(40) NOT NULL,
   `LastName` varchar(40) NOT NULL,
-  `Dept` varchar(60) NOT NULL,
-  `Program` varchar(60) NOT NULL,
+  `Dept` varchar(60) NOT NULL DEFAULT 'Computer Science and Engineering',
+  `Program` varchar(60) NOT NULL DEFAULT 'B.Tech',
   `DateOfBirth` date NOT NULL,
   `BloodGroup` varchar(10) NOT NULL,
   `MobileParent` varchar(15) NOT NULL,
@@ -329,8 +329,8 @@ CREATE TABLE `studentdetails` (
   `Address` varchar(1024) NOT NULL,
   `ResStatus` varchar(30) NOT NULL,
   `Password` varchar(60) NOT NULL,
-  `Active` int(11) NOT NULL,
-  `ImageFile` varchar(100) NOT NULL,
+  `Active` int(11) NOT NULL DEFAULT '1',
+  `ImageFile` varchar(100) NOT NULL DEFAULT 'dummy.jpg',
   `Email` varchar(60) NOT NULL
 ) ENGINE=MyISAM DEFAULT CHARSET=latin1;
 
@@ -373,7 +373,7 @@ CREATE TABLE `studentsettings` (
 
 INSERT INTO `studentsettings` (`RollNo`, `Grading`, `CourseLoad`, `Attendance`, `Practicality`, `Interactivity`) VALUES
 ('15MX13', 8, 6, 35, 46, 92),
-('15MX05', 28, 2, 4, 43, 83),
+('15MX05', 10, 6, 59, 92, 6),
 ('15MX09', 60, 40, 15, 69, 37),
 ('15MX02', 70, 30, 15, 50, 17),
 ('15MX04', 38, 67, 43, 56, 24),
@@ -425,7 +425,8 @@ CREATE TABLE `userrating` (
 
 INSERT INTO `userrating` (`RollNo`, `CourseCode`, `Rating`) VALUES
 ('15MX05', 'E15', 5),
-('15MX05', 'E10', 5);
+('15MX05', 'E10', 5),
+('15MX05', 'E20', 4);
 
 --
 -- Triggers `userrating`
@@ -456,7 +457,8 @@ INSERT INTO `userreviews` (`RollNo`, `CourseCode`, `Comment`, `TimeOfComment`) V
 ('15MX05', 'E12', 'If you are serious about placements you need to take this course. I will help you in lot more ways. ', '31-Jun-2017 18:56:22'),
 ('15MX05', 'E25', 'This is the best course If you are into networking.', '19-Oct-2017 06:49:07'),
 ('15MX09', 'E10', 'This course helped me to get a refresh on Data Structures. Worth it if you are opting for placements.', '3-Sept-2017 15:23:26'),
-('15MX09', 'E02', 'Right course if you are into designing UI for applications', '16-Oct-2017 12:56:22');
+('15MX09', 'E02', 'Right course if you are into designing UI for applications', '16-Oct-2017 12:56:22'),
+('15MX05', 'E20', 'A very well balanced OE course.', '22-Nov-2017 11:21:52');
 
 --
 -- Indexes for dumped tables
@@ -559,7 +561,7 @@ ALTER TABLE `admins`
 -- AUTO_INCREMENT for table `currentcourse`
 --
 ALTER TABLE `currentcourse`
-  MODIFY `sl_no` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
+  MODIFY `sl_no` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=9;
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;

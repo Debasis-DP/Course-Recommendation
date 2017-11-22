@@ -1,16 +1,16 @@
-POWER GENERATION SYSTEMS:
-
-SYLLABUS:
-1. Introduction : Definition of fluid, concept of continuum.
-2. Fluid Properties : Density, Viscosity, Surface tension, Vapour pressure 
-3. Fluid statics : Body and surface forces, Stress at a point, State of stress in fluid at rest and in motion, Pressure distribution in hydrostatics, manometers, forces on plane and curved surfaces, Buoyancy and the concept of stability of floating and submerged bodies. 
-4. Fluid kinematics : Scalar and vector fields, Eulerian and Lagrangian approaches, Material derivative, Velocity and acceleration, Streamline, Streak line and path line, Deformation, rotation and vorticity, Deformation rate and strain rate tensor, Circulation.
-5. Fluid flow : System and control volume approaches, Transport theorems, Continuity equation, Euler's equation, Bernoulli's equation, Momentum equations for stationary, moving and rotating control volumes, Application of Bernoulli's equation, static and dynamic pressure. 
-6. Fluid measurements : Pitot tube, Siphon, Venturimeter, Orificemeter, Mouthpiece, Sudden expansion in a pipe, Weirs and notches.
-
-Books: 
- 
-1. Chakraborty A, Kothari D P, Mukhopadhyay A K - The Performance, Operation and Control of EHV Power Transmission Systems; Wheeler Pub. 
-2. Das Begamudre R - The E H V A C Transmission - New Age International. 
- 
- 
+<br/><b>POWER GENERATION SYSTEMS:</b><br/>
+<br/>
+<br/><b>SYLLABUS:</b><br/>
+<br/>1. Introduction : Definition of fluid, concept of continuum.
+<br/>2. Fluid Properties : Density, Viscosity, Surface tension, Vapour pressure 
+<br/>3. Fluid statics : Body and surface forces, Stress at a point, State of stress in fluid at rest and in motion, Pressure distribution in hydrostatics, manometers, forces on plane and curved surfaces, Buoyancy and the concept of stability of floating and submerged bodies. 
+<br/>4. Fluid kinematics : Scalar and vector fields, Eulerian and Lagrangian approaches, Material derivative, Velocity and acceleration, Streamline, Streak line and path line, Deformation, rotation and vorticity, Deformation rate and strain rate tensor, Circulation.
+<br/>5. Fluid flow : System and control volume approaches, Transport theorems, Continuity equation, Euler's equation, Bernoulli's equation, Momentum equations for stationary, moving and rotating control volumes, Application of Bernoulli's equation, static and dynamic pressure. 
+<br/>6. Fluid measurements : Pitot tube, Siphon, Venturimeter, Orificemeter, Mouthpiece, Sudden expansion in a pipe, Weirs and notches.
+<br/>
+<br/><b>Books:</b><br/> 
+<br/> 
+<br/>1. Chakraborty A, Kothari D P, Mukhopadhyay A K - The Performance, Operation and Control of EHV Power Transmission Systems; Wheeler Pub. 
+<br/>2. Das Begamudre R - The E H V A C Transmission - New Age International. 
+<br/> 
+<br/> <br/><br/>

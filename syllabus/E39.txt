@@ -1,0 +1,37 @@
+<br/>Fundamentals of Biomechanics
+<br/>-----------------------------------------------------
+<br/>
+<br/><b>Course Content:</b><br/>
+<br/>UNIT-I
+<br/>Introduction – Force vectors, Coplanar, collinear and concurrent forces, moment and torque,
+<br/><b>Statics:</b><br/> Analysis of systems in equilibrium, Applications of statistics to Biomechanics,
+<br/>Mechanics of elbow, shoulder, spinal column, hip, knee, ankle.
+<br/>
+<br/>UNIT-II
+<br/>Introduction to deformable body mechanics, stress and strain, plastic deformation, multiaxial
+<br/>deformations and stress analysis, mechanical properties of biological tissues, various testing
+<br/>methods, empirical model of visco-elasticity, biomechanics of bone, tendons, ligaments,
+<br/>muscles and cartilages.
+<br/>
+<br/>UNIT-III
+<br/>Introduction to dynamics, linear kinematics and kinetics, angular kinematics and kinetics, workenergy
+<br/>methods, conservation of energy principle, Application to athletics, impulse and
+<br/>momentum. Computational biomechanics, continuum mechanics. 
+<br/>
+<br/>UNIT-IV
+<br/>Gait analysis, measurement of gait parameters, techniques for recording and measuring
+<br/>movements and forces - force platforms and motion analysis system, Applications of these
+<br/>equipments in biomechanics, performance improvement and injury prevention..
+<br/>
+<br/><b>Essential Reading:</b><br/>
+<br/>1. NihatOzkaya and Margareta Nordin, Fundamentals of biomechanics: Equilibrium,
+<br/>Motion and deformation, 2nd Edi. Springer 1999.
+<br/>2. Y.C Fung, Biomechanics – Mechanical Properties of Living Tissues, Springer, 1993.
+<br/>
+<br/><b>Supplementary Reading:</b><br/>
+<br/>1. Roger Bartlett, Introduction to Sports Biomechanics: Analysing Human Movement
+<br/>Patterns,Taylor and Francis, 2007.
+<br/>2. D. Dowson and V. Wright, An introduction to Biomechanics of joints and joint
+<br/>replacements, Mechanical Engineering Publications, 1980.
+<br/>---------------------------------------------------------
+<br/><br/>

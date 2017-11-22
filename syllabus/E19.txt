@@ -1,30 +1,29 @@
-Science of Consciousness in Ancient India:
-------------------------------------------
-
-Logic (Indian) 
- 
-1. Nature of Indian Logic: the close relationship of logic, epistemology and metaphysics in the Indian tradition; primacy of logical reasoning in establishing one’ own system and refuting all rival systems; the concepts of anvik?iki and anumiti 
-2. Definition of Anumana: Nyaya and Buddhist perspectives 
-3. Constituents of Anumana: Nyaya and Buddhist perspectives 
-4. Process of Anumana: Nyaya and Buddhist perspectives 
-5. Types of Anumana: Nyaya and Buddhist perspectives 
-6. Nyaya: pak?ata, paramarsa, definition of vyapti 
-7. Inductive elements in Indian Logic: the concepts of vyaptigrahopaya, samanyalak?a?apratyasatti, tarka, upadhi 
-8. Hetvabhasa 
-9. Jnaniyapratibaddha-pratibandhakabhava 
-
-
-Logic (Western) 
-1. First order predicate calculus with identity and definite description 
-2. Axiomatic presentation of propositional logic 
-3. Modal logic : System T 
-4. Meta-theory of propositional logic: soundness and completeness 
-5. Philosophical issues concerning quantifiers (ontological commitments) and existence 
-
-Suggestive Texts: 
-1. Kesava Misra: Tarkabha?a, ed. by Pandit Badarinath Shukla, Motilal Banarasidas Publishers Ltd., N. Delhi  
-2. Dharmakirti: Nyayabindu, ed. by D. Malvania, Patna, 1971 Uddyotakara: Nyayavarttika, ed. by M. M. Anantalal Thakur, ICPR Publication, N. Delhi 
-3. Prasastapadabha?ya, ed. By Ganganath Jha, Sapurnanda Sanskrit University, Benares 
-4. Nyayasutra – Vatsayanabhasya (select portions), ed. by MM Phanibhusan Tarkavagish, Rajya Pustak Parshad, WB 
- 
- 
+<br/><b>Science of Consciousness in Ancient India:</b><br/>
+<br/>------------------------------------------
+<br/>
+<br/>Logic (Indian) 
+<br/> 
+<br/>1. Nature of Indian Logic: the close relationship of logic, epistemology and metaphysics in the Indian tradition; primacy of logical reasoning in establishing one’ own system and refuting all rival systems; the concepts of anvik?iki and anumiti 
+<br/>2. Definition of Anumana: Nyaya and Buddhist perspectives 
+<br/>3. Constituents of Anumana: Nyaya and Buddhist perspectives 
+<br/>4. Process of Anumana: Nyaya and Buddhist perspectives 
+<br/>5. Types of Anumana: Nyaya and Buddhist perspectives 
+<br/>6. Nyaya: pak?ata, paramarsa, definition of vyapti 
+<br/>7. Inductive elements in Indian Logic: the concepts of vyaptigrahopaya, samanyalak?a?apratyasatti, tarka, upadhi 
+<br/>8. Hetvabhasa 
+<br/>9. Jnaniyapratibaddha-pratibandhakabhava 
+<br/>
+<br/>
+<br/>Logic (Western) 
+<br/>1. First order predicate calculus with identity and definite description 
+<br/>2. Axiomatic presentation of propositional logic 
+<br/>3. Modal logic : System T 
+<br/>4. Meta-theory of propositional logic: soundness and completeness 
+<br/>5. Philosophical issues concerning quantifiers (ontological commitments) and existence 
+<br/>
+<br/><b>Suggestive Texts:</b><br/> 
+<br/>1. Kesava Misra: Tarkabha?a, ed. by Pandit Badarinath Shukla, Motilal Banarasidas Publishers Ltd., N. Delhi  
+<br/>2. Dharmakirti: Nyayabindu, ed. by D. Malvania, Patna, 1971 Uddyotakara<br/>3. Prasastapadabha?ya, ed. By Ganganath Jha, Sapurnanda Sanskrit University, Benares 
+<br/>4. Nyayasutra – Vatsayanabhasya (select portions), ed. by MM Phanibhusan Tarkavagish, Rajya Pustak Parshad, WB 
+<br/> 
+<br/> <br/><br/>

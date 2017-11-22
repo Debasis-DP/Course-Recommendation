@@ -1,19 +1,19 @@
-FUNDAMENTALS OF COMMUNICATION SYSTEMS:
-
-Course Topics:
-1. Introduction to communication systems
-2. Signal representations and Fourier transforms
-3. Amplitude modulation, frequency translation
-4. Angle modulation: PM, FM, PLL, non-linear effects
-5. Multiplexing, superheterodyne receivers, signals through systems
-6. Probability & random processes, statistics, correlations, spectral density
-7. Noise and its characterization, effects on analog modulation
-8. A/D, sampling theorem, PAM, quantization and PCM
-9. Baseband digital signaling, matched filter, error probability
-10. ISI, Nyquist criterion, comparison of baseband digital signaling schemes 
-
-Prerequisite by topics:
-Probability/Statistics, Linear System Theory 
-
-Required Textbook:
-Simon Haykin, Michael Moher, Communication Systems, 5th ed., John Wiley & Sons, Hoboken, NJ, 2009. ISBN-13: 978-0-471-69790-9 
+<br/><b>FUNDAMENTALS OF COMMUNICATION SYSTEMS:</b><br/>
+<br/>
+<br/><b>Course Topics:</b><br/>
+<br/>1. Introduction to communication systems
+<br/>2. Signal representations and Fourier transforms
+<br/>3. Amplitude modulation, frequency translation
+<br/>4. Angle modulation: PM, FM, PLL, non-linear effects
+<br/>5. Multiplexing, superheterodyne receivers, signals through systems
+<br/>6. Probability & random processes, statistics, correlations, spectral density
+<br/>7. Noise and its characterization, effects on analog modulation
+<br/>8. A/D, sampling theorem, PAM, quantization and PCM
+<br/>9. Baseband digital signaling, matched filter, error probability
+<br/>10. ISI, Nyquist criterion, comparison of baseband digital signaling schemes 
+<br/>
+<br/><b>Prerequisite by topics:</b><br/>
+<br/>Probability/Statistics, Linear System Theory 
+<br/>
+<br/><b>Required Textbook:</b><br/>
+<br/><b>Simon Haykin, Michael Moher, Communication Systems, 5th ed., John Wiley & Sons, Hoboken, NJ, 2009. ISBN-13:</b><br/> 978-0-471-69790-9 <br/><br/>

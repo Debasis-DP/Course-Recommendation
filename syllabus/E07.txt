@@ -1,0 +1,29 @@
+<br/>Operating Systems
+<br/>--------------------
+<br/>
+<br/>UNIT-I 
+<br/>Evolution of Operating Systems and Overview
+<br/><b>Basic Concepts:</b><br/> Batch processing, Multiprogramming, Interrupts, Hardware concepts
+<br/>Different types of OS, Goals, OS Structure, System calls
+<br/><b>Process Management:</b><br/> Process, Concurrent Processes, Threads, Multithreading, Scheduling Algorithms
+<br/>
+<br/>UNIT-II 
+<br/><b>Inter-process Communication:</b><br/> Critical Section problem
+<br/><b>Synchronization Mechanisms:</b><br/> software and hardware, semaphores, monitors, message passing, Classical IPC problems
+<br/>
+<br/>UNIT-III 
+<br/><b>Deadlocks:</b><br/> conditions, Deadlock Handling Strategies. Memory Management<br/><b>Virtual Memory:</b><br/> Demand paging, page replacement algorithms, Trashing, Strategies to control Trashing.
+<br/>
+<br/>Unit-IV 
+<br/><b>File & Device Management:</b><br/> Files, Directory, File system Implementation, Example File systems, I/O hardware, I/O buffering, RAID.
+<br/><b>Security & Protection:</b><br/> Breaches, Solutions, mechanisms, Inside Attacks, outside attacks.
+<br/>
+<br/>UNIT-V 
+<br/>Case study on UNIX.
+<br/> 
+<br/><b>Text/Reference Books:</b><br/> 
+<br/>1. J. L. Peterson & A. Silberschatz, Operating System Concepts, John Wiley & Sons, 7th Ed, 2008.
+<br/>2. A. S. Tanenbum, Modern Operating Systems, Pearson, 3rd Ed, 2008.
+<br/>3. Harris, Schaum’s Outline of Operating Systems, Tata McGraw Hill, 11th Reprint, 2006
+<br/>4. Stallings, Operating Systems, Internals and Design Principles, 5th Ed, PHI, 4th print, 2008
+<br/>5. M. J. Bach, the Design of the UNIX operating system, Prentice Hall, reprint 2006.<br/><br/>

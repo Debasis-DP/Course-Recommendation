@@ -1,0 +1,17 @@
+<br/>Biomaterials in tissue engineering
+<br/>------------------------------------------
+<br/>
+<br/><b>Course Content:</b><br/>
+<br/>Introduction to mammalian cell & tissue engineering for human therapeutic applications. Cell
+<br/>adhesion and cell migration, extracellular matrix, cell aggregates, designing scaffolds,
+<br/>fabrication of scaffolds, cell-materials interactions, growth factors and their role in tissue
+<br/>genesis, delivery of growth factors, types of bioreactors used for tissue engineering, design &
+<br/>production of functional tissue units, Clinical applications & regulatory issues.
+<br/>
+<br/><b>Essential Reading:</b><br/>
+<br/>1. B. Palsson, S. Bhatia, Tissue Engineering, Pearson Education India; First edition, 2016.
+<br/><b>Supplementary Reading:</b><br/>
+<br/>1. R. P. Lanza, R. Langerand W. L. Chick, Principles of tissue engineering, Academic
+<br/>press, 4th Edition, 2013
+<br/>
+<br/><br/>

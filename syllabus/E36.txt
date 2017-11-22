@@ -1,28 +1,29 @@
-Vaccum Science and Applications
--------------------------------------------------------
-
-Course Content
-Behavior of Gases:
-Kinetic theory of gases, mean free path, particle flux, monolayer formation, Gas’s law; Elementary Gas Transport Phenomenon: Viscosity, diffusion, and thermal transpiration.
-
-Gas Flow:
-Viscous, molecular and Transition flow regimes, gas throughput, conductance, mass flow, pumping speed; Gas release from Solids: Vaporization, thermal desorption, virtual leaks, permeation, vacuum baking
-
-Measurement of Pressure:
-McLeod gauge, thermal conductivity gauges, spin rotor gauge, diaphragm/capacitance gauges manometer, Ionization gauges, hot cathode, cold cathode gauges; Flow Meters and Residual GasAnalyzer, Leak Detection.
-
-Production of Vacuum:
-Mechanical pumps (Rotary, Lobe and Turbomolecular pumps), Diffusion pump, Getter and Ion pumps, Cryopumps, Pump Fluids; Materials in Vacuum: Vaporization, out-gassing, glasses and Ceramics. Joints, Seals and Components, Gaskets and Motion feed through.
-
-Significance of Low Temperature:
-Properties of engineering materials at low temperatures; Cryogenic Fluids: Hydrogen, Helium 3, Helium 4, Superfluidity; Liquifaction of Gases; Helium Liquifaction system.
-
-Cryostat Design:
-Heat leak considerations, Cryogenic insulation, Cryogenics Vessels,Cryogenic level sensors.
-
-References:
-1. "High Vacuum Technology - A Practical Guide", 1990, Marsbed H. Hablanian, Marcel Dekker, INC. (New York and Besel).
-2. "A User's Guide to Vacuum Technology", 2003 (3rd Edition), John F. O'Hanlon, John Wiley & Sons (Canada).
-3. "Experimental low-temperature physics", 1993, Anthony Kent, MacMillan, London.
-4. "The Art of Cryogenics - Low-Temperature Experimental Techniques", 2008, Guglielmo Ventura & Lara Risegari, Elsevier.
-
+<br/>Vaccum Science and Applications
+<br/>-------------------------------------------------------
+<br/>
+<br/>Course Content
+<br/><b>Behavior of Gases:</b><br/>
+<br/><b>Kinetic theory of gases, mean free path, particle flux, monolayer formation, Gas’s law; Elementary Gas Transport Phenomenon:</b><br/> Viscosity, diffusion, and thermal transpiration.
+<br/>
+<br/><b>Gas Flow:</b><br/>
+<br/><b>Viscous, molecular and Transition flow regimes, gas throughput, conductance, mass flow, pumping speed; Gas release from Solids:</b><br/> Vaporization, thermal desorption, virtual leaks, permeation, vacuum baking
+<br/>
+<br/><b>Measurement of Pressure:</b><br/>
+<br/>McLeod gauge, thermal conductivity gauges, spin rotor gauge, diaphragm/capacitance gauges manometer, Ionization gauges, hot cathode, cold cathode gauges; Flow Meters and Residual GasAnalyzer, Leak Detection.
+<br/>
+<br/><b>Production of Vacuum:</b><br/>
+<br/><b>Mechanical pumps (Rotary, Lobe and Turbomolecular pumps), Diffusion pump, Getter and Ion pumps, Cryopumps, Pump Fluids; Materials in Vacuum:</b><br/> Vaporization, out-gassing, glasses and Ceramics. Joints, Seals and Components, Gaskets and Motion feed through.
+<br/>
+<br/><b>Significance of Low Temperature:</b><br/>
+<br/><b>Properties of engineering materials at low temperatures; Cryogenic Fluids:</b><br/> Hydrogen, Helium 3, Helium 4, Superfluidity; Liquifaction of Gases; Helium Liquifaction system.
+<br/>
+<br/><b>Cryostat Design:</b><br/>
+<br/>Heat leak considerations, Cryogenic insulation, Cryogenics Vessels,Cryogenic level sensors.
+<br/>
+<br/><b>References:</b><br/>
+<br/>1. "High Vacuum Technology - A Practical Guide", 1990, Marsbed H. Hablanian, Marcel Dekker, INC. (New York and Besel).
+<br/>2. "A User's Guide to Vacuum Technology", 2003 (3rd Edition), John F. O'Hanlon, John Wiley & Sons (Canada).
+<br/>3. "Experimental low-temperature physics", 1993, Anthony Kent, MacMillan, London.
+<br/>4. "The Art of Cryogenics - Low-Temperature Experimental Techniques", 2008, Guglielmo Ventura & Lara Risegari, Elsevier.
+<br/>
+<br/><br/>

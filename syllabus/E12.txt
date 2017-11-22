@@ -1,16 +1,17 @@
-SOFT COMPUTING:
-
-Syllabus:
-1. Introduction to Soft Computing : Introduction, Fuzzy Computing, Neural Computing, Genetic Algorithms, Associative Memory, Adaptive Resonance Theory, Applications
-2. Fundamentals of Neural Network : Introduction, Model of Artificial Neuron, Architectures, Learning Methods, Taxonomy of NN Systems, Single-Layer NN System, Applications.
-3. Back Propagation Network : Background, Back-Propagation Learning, Back-Propagation Algorithm.
-4. Associative Memory : Description, Auto-associative Memory, Bi-directional Heteroassociative
-5. Adaptive Resonance Theory : Recap - supervised, unsupervised, backprop algorithms; Competitive Learning; Stability-Plasticity Dilemma (SPD), ART Networks, Iterative Clustering, Unsupervised ART Clustering.
-
-Reference Books:
-1. NeuralNetworks, FuzzyLogic andGenetic Algorithms: Synthesis & Applications, S.Rajasekaran, G.A. Vijayalakshami, PHI. 
-2. ChinTeng Lin,C.S.George Lee, Neuro-Fuzzy Systems, PHI 
-3. Tomthy Ross,Fuzzy Logic andEngineering Application, TMH
-
-
-
+<br/><b>SOFT COMPUTING:</b><br/>
+<br/>
+<br/><b>Syllabus:</b><br/>
+<br/>1. Introduction to Soft Computing : Introduction, Fuzzy Computing, Neural Computing, Genetic Algorithms, Associative Memory, Adaptive Resonance Theory, Applications
+<br/>2. Fundamentals of Neural Network : Introduction, Model of Artificial Neuron, Architectures, Learning Methods, Taxonomy of NN Systems, Single-Layer NN System, Applications.
+<br/>3. Back Propagation Network : Background, Back-Propagation Learning, Back-Propagation Algorithm.
+<br/>4. Associative Memory : Description, Auto-associative Memory, Bi-directional Heteroassociative
+<br/>5. Adaptive Resonance Theory : Recap - supervised, unsupervised, backprop algorithms; Competitive Learning; Stability-Plasticity Dilemma (SPD), ART Networks, Iterative Clustering, Unsupervised ART Clustering.
+<br/>
+<br/><b>Reference Books:</b><br/>
+<br/>1. NeuralNetworks, FuzzyLogic andGenetic Algorithms: Synthesis & Applications, S.Rajasekaran, G.A. Vijayalakshami, PHI. 
+<br/>2. ChinTeng Lin,C.S.George Lee, Neuro-Fuzzy Systems, PHI 
+<br/>3. Tomthy Ross,Fuzzy Logic andEngineering Application, TMH
+<br/>
+<br/>
+<br/>
+<br/><br/>

@@ -1,19 +1,18 @@
-Microbial Genetics
-------------------
-
-1. Model systems in Genetic Analysis: Bacteriophage, E. coli, Neurospora crassa, yeast, Arabidopsis, maize, Drosophila, C. elegans, Zebra fish, Homo sapiens -  General outline of life cycle, importance in Genetic analysis. [6]*                                                                       
-2. Laws of inheritance: Mendel’s Laws, concept of dominance, segregation, independent assortment; Chromosome theory of inheritance. [10] 
-3. Allelic and non-allelic interactions: Concept of alleles, types of dominance, lethal alleles, multiple alleles, test of allelism, complementation; Epistasis.  [12] 
-4. Linkage: Concepts, recombination, gene mapping in prokaryotes and eukaryotes, fine structure mapping.[12]                             
-5. Sex-linked inheritance: Conceptual basis, sex influenced traits, mechanism of sex determination. [4] 
-6. Quantitative inheritance – Concept, Genes and Environment - heritability, penetrance and expressivity. [4] 
-7. Cytoplasmic inheritance – Basis and mechanism, role of organellar genes. [4]                                        
-8. Mutation – Classification, mechanism, repair, role in genetic analysis and evolution. [6]       
-9. Chromatin structure: Histones, DNA, nucleosome morphology and higher level organization; Functional states of chromatin and alterations in chromatin organization. [8] 
-10.Chromosome organization: Metaphase chromosomes: centromere and kinetochore, telomere and its maintenance; Holocentric chromosomes; Heterochromatin and euchromatin, position effect variegation; Chromosomal domains (matrix, loop domains) and their functional significance. [12]  
-11. Giant chromosomes: Polytene and lampbrush chromosomes. [2]                                                             
-12.Cytogenetic aspects of cell division: Chromosome labeling and cell cycle analysis, Overview of mitosis and meiosis, sister chromatid cohesion remodeling, regulation of exit from metaphase, chromosome movement at anaphase. Genetic control of meiosis with examples from yeast. [10]  
-13. Chromosomal anomalies: Numerical and structural alterations, induced chromosomal aberrations in somatic cells. [6] 
-Techniques in the study of chromosomes and their applications: Short term (lymphocyte) and long term (fibroblast) cultures, chromosome preparations, karyotyping, banding, chromosome labeling, in situ hybridization, chromosome painting, comparative genome hybridization (CGH),  somatic cell hybrids and gene mapping, premature chromosome condensation. [8] 
-14. Genome organization in viruses, prokaryotes and eukaryotes: Organization of nuclear and organellar genomes; C-value paradox, Repetitive DNA-satellite DNAs and interspersed repeated DNAs, Transposable elements, LINES, SINES, Alu family and their application in genome mapping. [14] 
-Suggested 
+<br/>Microbial Genetics
+<br/>------------------
+<br/>
+<br/>1. Model systems in Genetic Analysis: Bacteriophage, E. coli, Neurospora crassa, yeast, Arabidopsis, maize, Drosophila, C. elegans, Zebra fish, Homo sapiens -  General outline of life cycle, importance in Genetic analysis. [6]*                                                                       
+<br/>2. Laws of inheritance: Mendel’s Laws, concept of dominance, segregation, independent assortment; Chromosome theory of inheritance. [10] 
+<br/>3. Allelic and non-allelic interactions: Concept of alleles, types of dominance, lethal alleles, multiple alleles, test of allelism, complementation; Epistasis.  [12] 
+<br/>4. Linkage: Concepts, recombination, gene mapping in prokaryotes and eukaryotes, fine structure mapping.[12]                             
+<br/>5. Sex-linked inheritance: Conceptual basis, sex influenced traits, mechanism of sex determination. [4] 
+<br/>6. Quantitative inheritance – Concept, Genes and Environment - heritability, penetrance and expressivity. [4] 
+<br/>7. Cytoplasmic inheritance – Basis and mechanism, role of organellar genes. [4]                                        
+<br/>8. Mutation – Classification, mechanism, repair, role in genetic analysis and evolution. [6]       
+<br/>9. Chromatin structure: Histones, DNA, nucleosome morphology and higher level organization; Functional states of chromatin and alterations in chromatin organization. [8] 
+<br/>10.Chromosome organization: Metaphase chromosomes<br/>11. Giant chromosomes: Polytene and lampbrush chromosomes. [2]                                                             
+<br/>12.Cytogenetic aspects of cell division: Chromosome labeling and cell cycle analysis, Overview of mitosis and meiosis, sister chromatid cohesion remodeling, regulation of exit from metaphase, chromosome movement at anaphase. Genetic control of meiosis with examples from yeast. [10]  
+<br/>13. Chromosomal anomalies: Numerical and structural alterations, induced chromosomal aberrations in somatic cells. [6] 
+<br/><b>Techniques in the study of chromosomes and their applications:</b><br/> Short term (lymphocyte) and long term (fibroblast) cultures, chromosome preparations, karyotyping, banding, chromosome labeling, in situ hybridization, chromosome painting, comparative genome hybridization (CGH),  somatic cell hybrids and gene mapping, premature chromosome condensation. [8] 
+<br/>14. Genome organization in viruses, prokaryotes and eukaryotes: Organization of nuclear and organellar genomes; C-value paradox, Repetitive DNA-satellite DNAs and interspersed repeated DNAs, Transposable elements, LINES, SINES, Alu family and their application in genome mapping. [14] 
+<br/>Suggested <br/><br/>

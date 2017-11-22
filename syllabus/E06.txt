@@ -1,0 +1,31 @@
+<br/>Ceramics in Electronic Applications
+<br/>--------------------
+<br/>
+<br/>UNIT-I 
+<br/><b>Introduction:</b><br/> Elementary solid state science, electrical conduction, defect and defect chemistry, charge displacement
+<br/>process.
+<br/>
+<br/>UNIT-II 
+<br/><b>Ceramic conductors:</b><br/> high temperature heating elements and electrodes, ohmic resistors, varistors, thermistors – PTC, NTC,
+<br/>fuel cells and batteries, sensors, materials system, powder synthesis, processing, properties, devices and application. Fundamentals 
+<br/>of superconductivity, theories of superconductors, materials system, synthesis, processing, properties and application
+<br/>
+<br/>UNIT-III 
+<br/>Dielectric and insulators, fundamentals of capacitors, classification of dielectric materials, materials system, low permittivity,
+<br/>medium permittivity and high permittivity, Powder synthesis, processing, properties, fabrication and application. Capacitor designs, 
+<br/>processing; Fundamentals of piezoelectricity, materials system, synthesis, processing, properties, devices and application. Fundamentals
+<br/>of pyroelectricity, materials system, synthesis, processing, properties, devices and application.
+<br/>
+<br/>Unit-IV 
+<br/>Electro-optic fundamentals, materials system, synthesis, processing, properties, devices and application. Fundamentals of magnetism,
+<br/>Magnetics ceramics basic concepts
+<br/>
+<br/>UNIT-V 
+<br/><b>Model ferrites:</b><br/> spinel ferrites, hexaferrites, garnets, properties influencing magnetic behavior, soft ferrites, hard ferrites, microwave ferrites,
+<br/>Preparation of ferrites, rawmaterials, mixing calcinations and milling, sintering, post sintered processing, applications.
+<br/> 
+<br/><b>Text/Reference Books:</b><br/> 
+<br/>1. R. C. Buchanan, Ceramic Materials for Electronics: processing, properties and applications, Marcel Dekker, NY, 1986.
+<br/>2. L. M. Levinson, Electronic Ceramics: properties, device and applications, CRC Press, 1987.
+<br/>3. A. J. Moulson and J. M. Herbert, Electroceramics: Materials, Properties and Applications, Springer, 1990.
+<br/>4. B. Jaffe, W. R. Cook, H. Jaffe and H. L. C. Jaffe, Piezoelectric Ceramics, R. A. N Publishers, 1990.<br/><br/>

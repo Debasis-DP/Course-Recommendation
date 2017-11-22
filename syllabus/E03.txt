@@ -1,0 +1,39 @@
+<br/> Sports Biomechanics
+<br/>---------------------
+<br/>
+<br/><b>Syllabus:</b><br/>
+<br/>
+<br/>1. Bibliography. Programes assumptions. Why Study Biomechanics? 
+<br/>	• What Is Biomechanics?  
+<br/>	• What Are the Goals of Exercise and Sport Biomechanics? 
+<br/>	• The History of Sport Biomechanics 
+<br/>	• The Organization of Mechanics 
+<br/>	• Basic Dimensions Used in Mechanics 
+<br/>2. Forces: Maintaining Equilibrium or Changing Motion 
+<br/>	• What Are Forces?  
+<br/>	• Classifying Forces 
+<br/>	• Friction  
+<br/><b>	• Addition of Forces:</b><br/> Force Composition  
+<br/>	• Resolution of Forces  
+<br/>	• Static Equilibrium  
+<br/>3. Linear Kinematics: Describing Objects in Linear Motion 
+<br/>	• Linear Kinematics  
+<br/>	• Uniform Acceleration and Projectile Motion 
+<br/>4. Linear Kinetics: Explaining the Causes of Linear Motion 
+<br/><b>	• Newton’s First Law of Motion:</b><br/> Law of Inertia 
+<br/>	• Conservation of Momentum  
+<br/><b>	• Newton’s Second Law of Motion:</b><br/> Law of Acceleration  
+<br/>	• Impulse and Momentum  
+<br/><b>	• Newton’s Third Law of Motion:</b><br/> Law of Action-Reaction  
+<br/>	• Newton’s Law of Universal Gravitation  
+<br/>5. Work, Power, and Energy: Explaining the Causes of Motion Without Newton 
+<br/>	• Work  
+<br/>	• Energy  
+<br/>	• The Work-Energy Relationship  
+<br/>	• Power 
+<br/>
+<br/>TEXTBOOK AND REQUIRED MATERIALS 
+<br/><b>McGinnis, Peter M.:</b><br/> Biomechanics of Sport and Exercise-2nd Edition.  
+<br/><b>Robertson, D. Gordon E.:</b><br/> Research Methods in Biomechanics.  
+<br/><b>Zatsiorsky, Vladimir:</b><br/> Kinematics of Human Motion. 
+<br/><b>Whiting, William C.:</b><br/> Biomechanics of Musculoskeletal Injury<br/><br/>

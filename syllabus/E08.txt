@@ -1,0 +1,24 @@
+<br/>Chemical Kinetics
+<br/>--------------------
+<br/>
+<br/>UNIT-I 
+<br/><b>Composite reactions:</b><br/> Opposing, parallel and consecutive reactions, concept of steady state and pre-equilibrium approximations, chain reactions.
+<br/>
+<br/>UNIT-II 
+<br/>Theories of predicting rate of chemical reaction, limitation of collision theory, transition state theory or TST (Van’t Hoff equation, Eyring equation)
+<br/>Limitation of TST, Unimolecular Reactions. 
+<br/>
+<br/>UNIT-III 
+<br/>Potential energy surfaces (Polyani treatment), Saddle point theory, transient phase kinetics, Techniques to study fast reactions
+<br/><b>Catalysis:</b><br/> homogeneous catalysis (acid/base catalyzed reaction), enzyme catalysis, Michaelis-Menten equation, inhibitors, heterogeneous
+<br/>catalysis (gas/solid systems). Solution phase kinetics. 
+<br/>
+<br/>UNIT-V 
+<br/><b>Electrochemistry:</b><br/> Ionic interaction<br/>mobility, concentration cell and transport numbers, conductometric and potentiometric titrations, Application of conductance and EMF measurements.
+<br/> 
+<br/><b>Text/Reference Books:</b><br/> 
+<br/>1. K. J. Laidler, Chemical Kinetics, Harper and Row, 3rd Edition, 1990.
+<br/>2. J. Raja Ram, and J. C. Kuriacose, Kinetics and Mechanism of Chemical Transformations, MacMillan Indian Ltd., New Delhi, 1993.
+<br/>3. An introduction to Electrochemistry, Samuel Glasstone, EAST WEST Press
+<br/>4. Peter Atkins, Julio de Paula, Physical Chemistry, 9th Edition, Oxford University Pres
+<br/>5. K. L. Kapoor, Text Book of Physical Chemistry, Macmillan, 2006.<br/><br/>

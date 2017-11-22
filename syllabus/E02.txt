@@ -1,0 +1,38 @@
+<br/>Materials in medical science
+<br/>-----------------------------------------------------
+<br/>
+<br/><b>Course Content:</b><br/>
+<br/>UNIT-I
+<br/>Properties of materials, Structure of solids, Introduction of biomaterials, Metallic implant
+<br/><b>materials:</b><br/> Austenitic stainless steel, Co-based alloys, Titanium-based alloys and Dental alloys,
+<br/>
+<br/>
+<br/>UNIT-II
+<br/><b>Degradation processes on metallic surfaces, Ceramics implant materials:</b><br/> Glasses and Glassceramics,
+<br/>Alumina, Zirconia and Calcium phosphate, Bioresorbable and bioactive ceramics,
+<br/><b>Polymeric implant materials:</b><br/> Inert polymers, Natural polymers, Bioactive polymers,
+<br/><b>Biodegradable polymers, Composite implant materials:</b><br/> Mechanics of composite, Different
+<br/>composite biomaterials, Application of composite biomaterials
+<br/>
+<br/>UNIT-III
+<br/>Structure-property relationships of biological materials, Tissue response to implant surface,
+<br/><b>Softtissue replacement:</b><br/> Skin, Sutures, Maxillofacial implants and Blood interfacing implants,
+<br/><b>Hard tissue replacement:</b><br/> Long bone repair-wires, pins, screws, fractures plates, intramedullary
+<br/>devices, joint replacement-knee and hip joint, dental restorations and spinal implants.
+<br/>
+<br/>UNIT-IV
+<br/><b>Characterization of biomaterials:</b><br/> Physical and physicochemical surface characterization<br/>Mechanical, Optical and Electrochemical characterization. Biocompatibility and Biological tests.
+<br/>Infection and sterilization
+<br/>
+<br/><b>Essential Reading:</b><br/>
+<br/>1. J. Park, Biomaterials: An Introduction,Springer, 2012
+<br/>2. S.V. Bhat, Biomaterials, Springer, 2007.
+<br/>3. J.B Park, and J.D. Boonzino, Biomaterials: Principles and Application, CRC Press, 2002
+<br/>
+<br/><b>Supplementary Reading:</b><br/>
+<br/>1. J. Black, Biological Performance of materials, Taylor &Francis,2006
+<br/>2. C. P. Sharma, and M. Szycher, Blood compatible materials and devices, Technomic
+<br/>Publishing Co. Ltd., 1991.
+<br/>3. J. B. Park and R. S. Lakes, An Introduction to Biomaterials, Springer, 2007.
+<br/>4. B. D. Ratner, F. J. Schoen, A. S. Hoffman, and J. E. Lemons, Biomaterials Science: An
+<br/>introduction to Materials in medicine, 3rd edition, Academic Press, 2012.<br/><br/>

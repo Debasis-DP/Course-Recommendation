@@ -337,7 +337,7 @@ span.onclick = function() {
         modal.style.display = "none";
     }
 }*/
-
+//Update the course ratings according to the review given by the user.
 function subta(code){
 	var RollNo="<?php echo $_SESSION["RollNo"]; ?>";
 	var xhttp = new XMLHttpRequest();

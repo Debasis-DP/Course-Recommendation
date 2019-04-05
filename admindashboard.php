@@ -123,7 +123,7 @@ li.dropdown {
 	left:20%;
 }
 </style>
-<title>My Dashboard</title></head>
+<title>Admin Dashboard</title></head>
 <body>
 <script>
 function changepage(page){

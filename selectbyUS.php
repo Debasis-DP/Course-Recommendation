@@ -9,11 +9,16 @@ if (mysqli_connect_errno())
   {
   die("Failed to connect to MySQL: " . mysqli_connect_error());
   }
-  $sql="SELECT c.`CourseCode`,c.`CourseTitle`,c.`Rating`,c.`TotalVotes`,c.`Description`,c.`Grading`*s.`Grading`+c.`CourseLoad`*s.`CourseLoad`+c.`Attendance`*s.`Attendance`+c.`Practicality`*s.`Practicality`+c.`Interactivity`*s.`Interactivity` as sump FROM `coursedetails` c,`studentsettings` s WHERE s.RollNo='".$username."' and (c.`CourseCode` not in (SELECT RealCourseCode from coursetaken where RollNo='".$username."') AND c.`CourseCode` not in (SELECT CourseCode from currentcourse where RollNo='".$username."')) and c.Category='OE' order by sump desc";
+  $sql="SELECT c.`CourseCode`,c.`CourseTitle`,c.`Rating`,c.`TotalVotes`,c.`Description`,c.`Grading`*s.`Grading`+c.`CourseLoad`*s.`CourseLoad`+c.`Attendance`*s.`Attendance`+
+  c.`Practicality`*s.`Practicality`+c.`Interactivity`*s.`Interactivity` as sump FROM `coursedetails` c,`studentsettings` s 
+  WHERE s.RollNo='".$username."' and (c.`CourseCode` not in (SELECT RealCourseCode from coursetaken where RollNo='".$username."') 
+  AND c.`CourseCode` not in (SELECT CourseCode from currentcourse where RollNo='".$username."')) and c.Category='OE' order by sump desc";
   $ret=mysqli_query($con,$sql);
   $rows=array();
 		while($row = mysqli_fetch_assoc($ret)){
-			$sql1="select coursetaken.GradePoints,coursetaken.RealCourseCode,ccourses.CourseTitle from coursetaken,ccourses where coursetaken.RealCourseCode in (select Prerequisite from prerequirement where CourseCode='".$row["CourseCode"]."') and coursetaken.RollNo='".$username."' and ccourses.CourseCode=coursetaken.RealCourseCode";
+			$sql1="select coursetaken.GradePoints,coursetaken.RealCourseCode,ccourses.CourseTitle from coursetaken,ccourses 
+			where coursetaken.RealCourseCode in (select Prerequisite from prerequirement where CourseCode='".$row["CourseCode"]."') 
+			and coursetaken.RollNo='".$username."' and ccourses.CourseCode=coursetaken.RealCourseCode";
 			$ret1=mysqli_query($con,$sql1);
 			$remarks="";
 			while($row1 = mysqli_fetch_assoc($ret1)){
